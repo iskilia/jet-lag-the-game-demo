@@ -1,0 +1,25 @@
+{
+  "country": "UK",
+  "label": "United Kingdom",
+  "stationsFile": "stations.uk.json",
+  "questionsFile": "questions.uk.json",
+  "regionsFile": "regions.uk.json",
+  "penalties": {
+    "wrongGuess": 1,
+    "question": 3,
+    "hint": 0
+  },
+  "unansweredQuestionLimit": 3,
+  "unansweredLimitBehaviour": "end_game",
+  "intercityOperators": [
+    "Avanti West Coast",
+    "LNER",
+    "CrossCountry",
+    "GWR",
+    "Great Western Railway"
+  ],
+  "sleeperOperators": [
+    "Caledonian Sleeper",
+    "Night Riviera"
+  ]
+}

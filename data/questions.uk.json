@@ -1,0 +1,298 @@
+[
+  {
+    "id": "q01",
+    "text": "What is the first letter of your station name?",
+    "answerType": "value",
+    "resolver": "firstLetterOfName",
+    "answerableAlways": true,
+    "penaltyMinutes": 3
+  },
+  {
+    "id": "q02",
+    "text": "What is the last letter of your station name?",
+    "answerType": "value",
+    "resolver": "lastLetterOfName",
+    "answerableAlways": true,
+    "penaltyMinutes": 3
+  },
+  {
+    "id": "q03",
+    "text": "Is your station name a single word?",
+    "answerType": "yes_no",
+    "resolver": "isSingleWord",
+    "answerableAlways": true,
+    "penaltyMinutes": 3
+  },
+  {
+    "id": "q04",
+    "text": "Does your station name consist of two or more words?",
+    "answerType": "yes_no",
+    "resolver": "isMultiWord",
+    "answerableAlways": true,
+    "penaltyMinutes": 3
+  },
+  {
+    "id": "q05",
+    "text": "Is your station name longer than 10 characters?",
+    "answerType": "yes_no",
+    "resolver": "nameLongerThan10",
+    "answerableAlways": true,
+    "penaltyMinutes": 3
+  },
+  {
+    "id": "q06",
+    "text": "Does your station name contain \"West\" or \"East\"?",
+    "answerType": "yes_no",
+    "resolver": "containsWestOrEast",
+    "answerableAlways": true,
+    "penaltyMinutes": 3
+  },
+  {
+    "id": "q07",
+    "text": "Does your station name contain \"North\" or \"South\"?",
+    "answerType": "yes_no",
+    "resolver": "containsNorthOrSouth",
+    "answerableAlways": true,
+    "penaltyMinutes": 3
+  },
+  {
+    "id": "q08",
+    "text": "Does your station name contain a compass direction (North, South, East, West, Upper, Lower, Central)?",
+    "answerType": "yes_no",
+    "resolver": "containsCompassWord",
+    "answerableAlways": true,
+    "penaltyMinutes": 3
+  },
+  {
+    "id": "q09",
+    "text": "Does your station name contain the word \"New\"?",
+    "answerType": "yes_no",
+    "resolver": "containsNew",
+    "answerableAlways": true,
+    "penaltyMinutes": 3
+  },
+  {
+    "id": "q10",
+    "text": "Does your station name contain \"King\" or \"Queen\"?",
+    "answerType": "yes_no",
+    "resolver": "containsKingOrQueen",
+    "answerableAlways": true,
+    "penaltyMinutes": 3
+  },
+  {
+    "id": "q11",
+    "text": "Does your station name contain \"St\" (as in Saint)?",
+    "answerType": "yes_no",
+    "resolver": "containsSaint",
+    "answerableAlways": true,
+    "penaltyMinutes": 3
+  },
+  {
+    "id": "q12",
+    "text": "Does your station name contain the word \"Street\", \"Road\", \"Junction\", \"Central\", or \"Parkway\"?",
+    "answerType": "yes_no",
+    "resolver": "containsSuffixWord",
+    "answerableAlways": true,
+    "penaltyMinutes": 3
+  },
+  {
+    "id": "q13",
+    "text": "Does your station name contain the word \"Park\"?",
+    "answerType": "yes_no",
+    "resolver": "containsPark",
+    "answerableAlways": true,
+    "penaltyMinutes": 3
+  },
+  {
+    "id": "q14",
+    "text": "Does your station name contain an \"&\" symbol?",
+    "answerType": "yes_no",
+    "resolver": "containsAmpersand",
+    "answerableAlways": true,
+    "penaltyMinutes": 3
+  },
+  {
+    "id": "q15",
+    "text": "Does your station name contain a bracketed qualifier, e.g. \"(Kent)\" or \"(Lancashire)\"?",
+    "answerType": "yes_no",
+    "resolver": "hasBracketedQualifier",
+    "answerableAlways": true,
+    "penaltyMinutes": 3
+  },
+  {
+    "id": "q16",
+    "text": "Does your station name start with a place name from Wales or Scotland (e.g. \"Llan-\", \"Aber-\", \"Inver-\", \"Glen-\")?",
+    "answerType": "yes_no",
+    "resolver": "hasCelticPrefix",
+    "answerableAlways": true,
+    "penaltyMinutes": 3
+  },
+  {
+    "id": "q17",
+    "text": "Does your station share at least 2 letters with my station name?",
+    "answerType": "yes_no",
+    "resolver": "sharesAtLeast2Letters",
+    "answerableAlways": true,
+    "penaltyMinutes": 3
+  },
+  {
+    "id": "q18",
+    "text": "Does your station share more than 3 letters in common with my station name?",
+    "answerType": "yes_no",
+    "resolver": "sharesMoreThan3Letters",
+    "answerableAlways": true,
+    "penaltyMinutes": 3
+  },
+  {
+    "id": "q19",
+    "text": "Does your station share any vowels with my station name?",
+    "answerType": "yes_no",
+    "resolver": "sharesVowels",
+    "answerableAlways": true,
+    "penaltyMinutes": 3
+  },
+  {
+    "id": "q20",
+    "text": "Is your station in London?",
+    "answerType": "yes_no",
+    "resolver": "isInLondon",
+    "answerableAlways": true,
+    "penaltyMinutes": 3
+  },
+  {
+    "id": "q21",
+    "text": "Is your station in Scotland, Wales, or England?",
+    "answerType": "value",
+    "resolver": "countryOfUK",
+    "answerableAlways": true,
+    "penaltyMinutes": 3
+  },
+  {
+    "id": "q22",
+    "text": "What region of the United Kingdom is your station in?",
+    "answerType": "value",
+    "resolver": "regionName",
+    "answerableAlways": true,
+    "penaltyMinutes": 3
+  },
+  {
+    "id": "q23",
+    "text": "Is your station in the same region as my station?",
+    "answerType": "yes_no",
+    "resolver": "sameRegionAsSeeker",
+    "answerableAlways": true,
+    "penaltyMinutes": 3
+  },
+  {
+    "id": "q24",
+    "text": "What is the cardinal direction of your station within the UK — North, South, East, West, or Central?",
+    "answerType": "value",
+    "resolver": "cardinalDirection",
+    "answerableAlways": true,
+    "penaltyMinutes": 3
+  },
+  {
+    "id": "q25",
+    "text": "Is your station in the same cardinal direction as my station?",
+    "answerType": "yes_no",
+    "resolver": "sameCardinalAsSeeker",
+    "answerableAlways": true,
+    "penaltyMinutes": 3
+  },
+  {
+    "id": "q26",
+    "text": "Does my station's region border your station's region?",
+    "answerType": "yes_no",
+    "resolver": "regionsBorder",
+    "answerableAlways": true,
+    "penaltyMinutes": 3
+  },
+  {
+    "id": "q27",
+    "text": "What is the closest major city to your station?",
+    "answerType": "value",
+    "resolver": "closestMajorCity",
+    "answerableAlways": true,
+    "penaltyMinutes": 3
+  },
+  {
+    "id": "q28",
+    "text": "Does your station share the same closest major city as my station?",
+    "answerType": "yes_no",
+    "resolver": "sameMajorCityAsSeeker",
+    "answerableAlways": true,
+    "penaltyMinutes": 3
+  },
+  {
+    "id": "q29",
+    "text": "Is your station's closest major city Manchester or Liverpool?",
+    "answerType": "yes_no",
+    "resolver": "cityIsManchesterOrLiverpool",
+    "answerableAlways": true,
+    "penaltyMinutes": 3
+  },
+  {
+    "id": "q30",
+    "text": "Does your station share the same train operating company as my station?",
+    "answerType": "yes_no",
+    "resolver": "sharesOperator",
+    "answerableAlways": true,
+    "penaltyMinutes": 3
+  },
+  {
+    "id": "q31",
+    "text": "Is your station served by more than one train operating company?",
+    "answerType": "yes_no",
+    "resolver": "hasMultipleOperators",
+    "answerableAlways": true,
+    "penaltyMinutes": 3
+  },
+  {
+    "id": "q32",
+    "text": "Is your station served by a long-distance intercity operator (Avanti West Coast, LNER, CrossCountry, or GWR)?",
+    "answerType": "yes_no",
+    "resolver": "hasIntercityOperator",
+    "answerableAlways": true,
+    "penaltyMinutes": 3
+  },
+  {
+    "id": "q33",
+    "text": "Is your station served by a sleeper train service?",
+    "answerType": "yes_no",
+    "resolver": "hasSleeperOperator",
+    "answerableAlways": true,
+    "penaltyMinutes": 3
+  },
+  {
+    "id": "q34",
+    "text": "Is your station directly connected to an airport?",
+    "answerType": "yes_no",
+    "resolver": "isAirportStation",
+    "answerableAlways": false,
+    "penaltyMinutes": 3
+  },
+  {
+    "id": "q35",
+    "text": "Would you pass through my station to reach yours on the most direct rail route?",
+    "answerType": "yes_no",
+    "resolver": "passesThroughSeeker",
+    "answerableAlways": false,
+    "penaltyMinutes": 3
+  },
+  {
+    "id": "q36",
+    "text": "Does your postcode area start with the same letter(s) as my station's postcode area?",
+    "answerType": "yes_no",
+    "resolver": "samePostcodeArea",
+    "answerableAlways": true,
+    "penaltyMinutes": 3
+  },
+  {
+    "id": "q37",
+    "text": "Is the first letter of your postcode a vowel (A, E, I, O, U)?",
+    "answerType": "yes_no",
+    "resolver": "postcodeStartsWithVowel",
+    "answerableAlways": true,
+    "penaltyMinutes": 3
+  }
+]

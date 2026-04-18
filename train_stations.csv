@@ -1,0 +1,1667 @@
+Station,Train Operating Companies / Lines,Postcode,Cardinal Direction,Region,Closest Major City,Landmark 1,Landmark 2,Landmark 3
+London Paddington,"Great Western Railway,Heathrow Express,Elizabeth line",W2 1HQ,South,London,London,Paddington Bear Statue,Bishop's Bridge,None
+London Waterloo,South Western Railway,SE1 8SW,South,London,London,Waterloo Bridge,County Hall,South Bank Lion
+London Victoria,"Southern,Gatwick Express,Southeastern",SW1V 1JU,South,London,London,Victoria Palace Theatre,Westminster Cathedral,Buckingham Palace Gate
+London Liverpool Street,"Greater Anglia,Elizabeth line,c2c,Stansted Express",EC2M 7PY,South,London,London,The Gherkin (30 St Mary Axe),Liverpool Street Exchange,Spitalfields Market
+London Bridge,"Southeastern,Southern,Thameslink",SE1 9SP,South,London,London,The Shard,Borough Market,Southwark Cathedral
+London Charing Cross,Southeastern,WC2N 5HS,South,London,London,Trafalgar Square,Charing Cross Memorial,National Gallery
+London Cannon Street,Southeastern,EC4N 6AP,South,London,London,St Paul's Cathedral,Tate Modern (nearby),Cannon Street Roman Stone
+London Blackfriars,Thameslink,EC4V 3BR,South,London,London,Blackfriars Bridge,St Paul's Cathedral,Tate Modern
+London Fenchurch Street,c2c,EC3M 4AJ,South,London,London,Lloyd's of London,Monument to the Great Fire,The Leadenhall Building
+London Marylebone,Chiltern Railways,NW1 6JJ,South,London,London,Sherlock Holmes Museum,Madame Tussauds,Regent's Park
+London Euston,"Avanti West Coast,London Northwestern Railway,Caledonian Sleeper",NW1 2RT,South,London,London,Euston Arch Memorial,British Library,St Pancras Renaissance Hotel
+London St Pancras International,"East Midlands Railway,Thameslink,Southeastern,Eurostar",N1C 4QP,South,London,London,St Pancras Renaissance Hotel,British Library,Granary Square
+London Kings Cross,"LNER,Thameslink,Great Northern",N1C 4AP,South,London,London,Platform 9¾ (Harry Potter),St Pancras Station,British Library
+Stratford,"Greater Anglia,c2c,Elizabeth line",E15 1XE,South,London,London,Queen Elizabeth Olympic Park,ArcelorMittal Orbit,Westfield Stratford City
+Clapham Junction,"South Western Railway,Southern",SW11 2QP,South,London,London,Battersea Power Station,None,None
+East Croydon,"Southern,Thameslink,Gatwick Express",CR0 1LF,South,London,London,Croydon Clocktower,None,None
+Wimbledon,"South Western Railway,Thameslink,Southern",SW19 7NL,South,London,London,All England Lawn Tennis Club,None,None
+Richmond,"South Western Railway,Southern",TW9 1DN,South,London,London,Richmond Park,Richmond Bridge,None
+Surbiton,South Western Railway,KT6 4ST,South,London,London,None,None,None
+Woking,South Western Railway,GU21 6BT,South,South East,London,Woking Mosque,HG Wells Martian Tripod Statue,None
+Guildford,"South Western Railway,Great Western Railway",GU1 4UT,South,South East,London,Guildford Cathedral,Guildford Castle,Guildhall Clock
+Epsom,"Southern,South Western Railway",KT19 8BH,South,South East,London,Epsom Racecourse,None,None
+Kingston,South Western Railway,KT1 1RT,South,London,London,Kingston Bridge,All Saints' Church Kingston,None
+Twickenham,South Western Railway,TW1 1BQ,South,London,London,Twickenham Stadium,Orleans House Gallery,None
+Staines,South Western Railway,TW18 4LX,South,South East,London,Staines Bridge,London Stone Staines,None
+Weybridge,South Western Railway,KT13 8PA,South,South East,London,Brooklands Museum,None,None
+Leatherhead,Southern,KT22 7XP,South,South East,London,None,None,None
+Dorking,"Southern,Great Western Railway",RH4 1LY,South,South East,London,None,None,None
+Redhill,"Southern,Thameslink",RH1 1RT,South,South East,London,None,None,None
+Reigate,Southern,RH2 0BG,South,South East,London,Reigate Castle,None,None
+Gatwick Airport,"Southern,Gatwick Express,Thameslink",RH6 0NP,South,South East,London,None,None,None
+Three Bridges,"Southern,Thameslink",RH10 1LS,South,South East,London,None,None,None
+Crawley,Southern,RH10 1JH,South,South East,London,None,None,None
+Horsham,"Southern,Thameslink",RH12 1NB,South,South East,London,Horsham Park,None,None
+Haywards Heath,"Southern,Thameslink,Gatwick Express",RH16 3EE,South,South East,London,None,None,None
+Brighton,"Southern,Thameslink,Gatwick Express",BN1 5SJ,South,South East,London,Brighton Pier,Royal Pavilion,Brighton Wheel
+Hove,"Southern,Thameslink",BN3 1AL,South,South East,London,Hove Lawns,None,None
+Lewes,Southern,BN7 2UP,South,South East,London,Lewes Castle,Harvey's Brewery,None
+Eastbourne,Southern,BN21 3PH,South,South East,London,Eastbourne Pier,Beachy Head Lighthouse (distant),None
+Hastings,"Southeastern,Southern",TN34 1QN,South,South East,London,Hastings Castle,None,None
+Bexhill,Southern,TN39 3HH,South,South East,London,De La Warr Pavilion,None,None
+Worthing,Southern,BN11 1BL,South,South East,London,Worthing Pier,None,None
+Littlehampton,Southern,BN17 5DZ,South,South East,London,None,None,None
+Bognor Regis,Southern,PO21 1TF,South,South East,London,None,None,None
+Chichester,Southern,PO19 7JA,South,South East,London,Chichester Cathedral,Chichester Cross,Chichester Roman Walls
+Portsmouth Harbour,"South Western Railway,Southern",PO1 3PX,South,South East,London,Spinnaker Tower,HMS Warrior,Historic Dockyard
+Portsmouth & Southsea,"South Western Railway,Southern",PO1 2LG,South,South East,London,Southsea Castle,D-Day Museum,None
+Fratton,"South Western Railway,Southern",PO4 8RP,South,South East,London,None,None,None
+Havant,"South Western Railway,Southern",PO9 1BZ,South,South East,London,None,None,None
+Fareham,South Western Railway,PO16 0BN,South,South East,London,None,None,None
+Southampton Central,"South Western Railway,Great Western Railway,CrossCountry",SO15 1AL,South,South East,London,Mayflower Theatre,Tudor Walls,SeaCity Museum
+Southampton Airport Parkway,"South Western Railway,CrossCountry",SO18 2NL,South,South East,London,None,None,None
+Eastleigh,"South Western Railway,CrossCountry",SO50 5RB,South,South East,London,None,None,None
+Winchester,South Western Railway,SO23 8UT,South,South East,London,Winchester Cathedral,Winchester Castle Great Hall,Round Table of King Arthur
+Basingstoke,"South Western Railway,Great Western Railway,CrossCountry",RG21 7LE,South,South East,London,None,None,None
+Hook,South Western Railway,RG27 9DB,South,South East,London,None,None,None
+Fleet,South Western Railway,GU51 3AG,South,South East,London,None,None,None
+Farnborough,South Western Railway,GU14 7PA,South,South East,London,None,None,None
+Alton,South Western Railway,GU34 1BE,South,South East,London,None,None,None
+Andover,South Western Railway,SP10 1DS,South,South East,London,None,None,None
+Salisbury,"South Western Railway,Great Western Railway",SP1 2LR,South,South West,London,Salisbury Cathedral,Old Sarum,Stonehenge (distant)
+Bournemouth,South Western Railway,BH1 1BS,South,South West,London,Bournemouth Pier,Russell-Cotes Art Gallery,None
+Poole,South Western Railway,BH15 1HU,South,South West,London,Poole Quay,None,None
+Weymouth,South Western Railway,DT4 8DG,South,South West,London,Weymouth Harbour,Weymouth Beach,George III Statue
+Brockenhurst,South Western Railway,SO42 7TW,South,South West,London,None,None,None
+Lymington Town,South Western Railway,Unknown,South,South East,London,None,None,None
+Lymington Pier,South Western Railway,Unknown,South,South East,London,None,None,None
+Romsey,South Western Railway,Unknown,South,South East,London,None,None,None
+Totton,South Western Railway,Unknown,South,South East,London,None,None,None
+Christchurch,South Western Railway,Unknown,South,South West,London,None,None,None
+Pokesdown,South Western Railway,Unknown,South,South East,London,None,None,None
+Wareham,South Western Railway,BH20 4AB,South,South West,London,None,None,None
+Wool,South Western Railway,Unknown,South,South East,London,None,None,None
+Dorchester South,South Western Railway,DT1 1BR,South,South West,London,None,None,None
+Dorchester West,Great Western Railway,DT1 1BR,South,South West,London,Maiden Castle (1.5km),Dorchester Museum,None
+Yeovil Junction,South Western Railway,BA22 8RN,South,South West,London,None,None,None
+Yeovil Pen Mill,Great Western Railway,BA21 4EG,South,South West,London,None,None,None
+Crewkerne,South Western Railway,Unknown,South,South West,London,None,None,None
+Axminster,South Western Railway,Unknown,South,South West,London,None,None,None
+Honiton,South Western Railway,Unknown,South,South West,London,None,None,None
+Exeter St Davids,"Great Western Railway,South Western Railway,CrossCountry,Avanti West Coast",EX4 4NT,South,South West,London,Exeter Cathedral (0.6km),Royal Albert Memorial Museum,None
+Exeter Central,South Western Railway,EX1 1ES,South,South West,London,Exeter Cathedral,None,None
+Exeter St Thomas,South Western Railway,Unknown,South,South West,London,None,None,None
+Starcross,Great Western Railway,Unknown,South,South West,London,None,None,None
+Dawlish Warren,Great Western Railway,Unknown,South,South West,London,None,None,None
+Dawlish,Great Western Railway,Unknown,South,South West,London,None,None,None
+Teignmouth,Great Western Railway,Unknown,South,South West,London,None,None,None
+Newton Abbot,"Great Western Railway,CrossCountry",TQ12 2JE,South,South West,London,None,None,None
+Torquay,Great Western Railway,TQ2 5UB,South,South West,London,Torquay Harbour,Torre Abbey,None
+Paignton,Great Western Railway,TQ4 5DP,South,South West,London,Paignton Pier,None,None
+Torre,Great Western Railway,Unknown,South,South West,London,None,None,None
+Totnes,Great Western Railway,TQ9 5JR,South,South West,London,Totnes Castle,None,None
+Ivybridge,Great Western Railway,Unknown,South,South West,London,None,None,None
+Plymouth,"Great Western Railway,CrossCountry,Avanti West Coast",PL4 6AB,South,South West,London,Plymouth Hoe & Smeaton's Tower,Mayflower Steps,Royal Citadel
+Liskeard,Great Western Railway,PL14 3AL,South,South West,London,None,None,None
+Bodmin Parkway,Great Western Railway,PL30 4BB,South,South West,London,None,None,None
+Lostwithiel,Great Western Railway,Unknown,South,South West,London,None,None,None
+Par,Great Western Railway,PL24 2NN,South,South West,London,None,None,None
+St Austell,Great Western Railway,PL25 4RP,South,South West,London,Eden Project (5km),None,None
+Truro,Great Western Railway,TR1 3HW,South,South West,London,Truro Cathedral,Royal Cornwall Museum,None
+Redruth,Great Western Railway,TR15 2EG,South,South West,London,None,None,None
+Camborne,Great Western Railway,TR14 8DS,South,South West,London,None,None,None
+Hayle,Great Western Railway,Unknown,South,South West,London,None,None,None
+St Erth,Great Western Railway,TR27 6HU,South,South West,London,None,None,None
+Penzance,"Great Western Railway,Night Riviera Sleeper",TR18 2LT,South,South West,London,Penlee House Gallery,St Michael's Mount (distant),None
+Falmouth Docks,Great Western Railway,TR11 4NQ,South,South West,London,National Maritime Museum Cornwall,None,None
+Falmouth Town,Great Western Railway,TR11 3AT,South,South West,London,None,None,None
+Penryn,Great Western Railway,Unknown,South,South West,London,None,None,None
+Penmere,Great Western Railway,Unknown,South,South West,London,None,None,None
+Perranwell,Great Western Railway,Unknown,South,South West,London,None,None,None
+Mylor Bridge,Great Western Railway,Unknown,South,South West,London,None,None,None
+Devoran,Great Western Railway,Unknown,South,South West,London,None,None,None
+Carnon,Great Western Railway,Unknown,South,South West,London,None,None,None
+Newquay,Great Western Railway,TR7 1BY,South,South West,London,Newquay Beach,Blue Reef Aquarium,None
+St Columb Road,Great Western Railway,Unknown,South,South West,London,None,None,None
+Quintrel Downs,Great Western Railway,Unknown,South,South West,London,None,None,None
+St Dennis Junction,Great Western Railway,Unknown,South,South West,London,None,None,None
+Bugle,Great Western Railway,Unknown,South,Wales,Cardiff,None,None,None
+Luxulyan,Great Western Railway,Unknown,South,South West,London,None,None,None
+Goonbarrow Junction,Great Western Railway,Unknown,South,South West,London,None,None,None
+Barnstaple,Great Western Railway,EX31 1BS,South,South West,London,Barnstaple Guildhall,None,None
+Crediton,Great Western Railway,Unknown,South,South West,London,None,None,None
+Copplestone,Great Western Railway,Unknown,South,South West,London,None,None,None
+Morchard Road,Great Western Railway,Unknown,South,South West,London,None,None,None
+Lapford,Great Western Railway,Unknown,South,South West,London,None,None,None
+Eggesford,Great Western Railway,Unknown,South,South West,London,None,None,None
+Kings Nympton,Great Western Railway,Unknown,South,South West,London,None,None,None
+Portsmouth Arms,Great Western Railway,Unknown,South,South West,London,None,None,None
+Umberleigh,Great Western Railway,Unknown,South,South West,London,None,None,None
+Chapelton,Great Western Railway,Unknown,South,South West,London,None,None,None
+Okehampton,Great Western Railway,EX20 1DH,South,South West,London,None,None,None
+Sampford Courtenay,Great Western Railway,Unknown,South,South West,London,None,None,None
+Yeoford,Great Western Railway,Unknown,South,South West,London,None,None,None
+Reading,"Great Western Railway,CrossCountry,Elizabeth line,South Western Railway,Chiltern Railways",RG1 1LX,South,South East,London,Reading Abbey Ruins,None,None
+Didcot Parkway,"Great Western Railway,CrossCountry",OX11 7NX,South,South East,London,Didcot Railway Centre,None,None
+Swindon,"Great Western Railway,CrossCountry",SN1 1DA,South,South West,London,Steam Museum of the GWR,STEAM Museum,None
+Bath Spa,Great Western Railway,BA1 1SU,South,South West,London,Roman Baths,Bath Abbey,Pulteney Bridge
+Bristol Temple Meads,"Great Western Railway,CrossCountry,South Western Railway",BS1 6QF,South,South West,London,SS Great Britain,Brunel's Terminus Building,Arnolfini Gallery
+Bristol Parkway,"Great Western Railway,CrossCountry",BS34 5TB,South,South West,London,None,None,None
+Chippenham,Great Western Railway,SN15 1HL,South,South West,London,None,None,None
+Melksham,Great Western Railway,SN12 7BU,South,South West,London,None,None,None
+Trowbridge,Great Western Railway,BA14 8DB,South,South West,London,None,None,None
+Westbury,Great Western Railway,BA13 3BY,South,South West,London,Westbury White Horse (3km),None,None
+Frome,Great Western Railway,BA11 1EF,South,South West,London,None,None,None
+Bruton,Great Western Railway,Unknown,South,South West,London,None,None,None
+Castle Cary,Great Western Railway,BA7 7EG,South,South West,London,None,None,None
+Bridgwater,Great Western Railway,TA6 3HB,South,South West,London,None,None,None
+Taunton,"Great Western Railway,CrossCountry",TA1 1PR,South,South West,London,Taunton Castle,Somerset County Museum,None
+Tiverton Parkway,"Great Western Railway,CrossCountry",EX16 8NN,South,South West,London,None,None,None
+Weston-super-Mare,Great Western Railway,BS23 1QY,South,South West,London,Weston-super-Mare Pier,None,None
+Clevedon,Great Western Railway,Unknown,South,South West,London,None,None,None
+Nailsea & Backwell,Great Western Railway,Unknown,South,South West,London,None,None,None
+Yatton,Great Western Railway,Unknown,South,South West,London,None,None,None
+Worle,Great Western Railway,Unknown,South,South West,London,None,None,None
+Highbridge & Burnham,Great Western Railway,TA9 3BW,South,South West,London,None,None,None
+Burnham-on-Sea,Great Western Railway,Unknown,South,South West,London,None,None,None
+Maidenhead,"Great Western Railway,Elizabeth line",SL6 1ED,South,South East,London,Maidenhead Bridge,None,None
+Slough,"Great Western Railway,Elizabeth line",SL1 1RW,South,South East,London,None,None,None
+Windsor & Eton Central,Great Western Railway,SL4 1PJ,South,South East,London,Windsor Castle,Eton College,Long Walk
+Windsor & Eton Riverside,South Western Railway,SL4 1PN,South,South East,London,Windsor Castle,Eton College,None
+Taplow,"Great Western Railway,Elizabeth line",Unknown,South,South West,London,None,None,None
+Burnham,"Great Western Railway,Elizabeth line",Unknown,South,South West,London,None,None,None
+Twyford,"Great Western Railway,Elizabeth line",RG10 9AB,South,South East,London,None,None,None
+Goring & Streatley,Great Western Railway,Unknown,South,South West,London,None,None,None
+Cholsey,Great Western Railway,Unknown,South,South West,London,None,None,None
+Appleford,Great Western Railway,Unknown,South,South West,London,None,None,None
+Culham,Great Western Railway,Unknown,South,South West,London,None,None,None
+Radley,Great Western Railway,Unknown,South,South West,London,None,None,None
+Abingdon,Great Western Railway,Unknown,South,South West,London,None,None,None
+Oxford,"Great Western Railway,CrossCountry,Chiltern Railways,London Northwestern Railway",OX1 1HP,South,South East,London,Christ Church Cathedral,Oxford Covered Market,Radcliffe Camera
+Oxford Parkway,Chiltern Railways,OX2 8HA,South,South East,London,None,None,None
+Banbury,"Chiltern Railways,CrossCountry",OX16 5AA,Central,South East,London,Banbury Cross,None,None
+Leamington Spa,"Chiltern Railways,CrossCountry,London Northwestern Railway",CV31 3NU,Central,West Midlands,London,Jephson Gardens,Royal Pump Rooms,None
+Warwick,Chiltern Railways,Unknown,Central,West Midlands,London,None,None,None
+Warwick Parkway,Chiltern Railways,Unknown,Central,West Midlands,London,None,None,None
+Hatton,Chiltern Railways,Unknown,South,South East,London,None,None,None
+Lapworth,Chiltern Railways,Unknown,Central,West Midlands,London,None,None,None
+Dorridge,Chiltern Railways,Unknown,Central,West Midlands,London,None,None,None
+Solihull,Chiltern Railways,Unknown,Central,West Midlands,London,None,None,None
+Olton,Chiltern Railways,Unknown,Central,West Midlands,London,None,None,None
+Acocks Green,Chiltern Railways,Unknown,South,South East,London,None,None,None
+Birmingham Moor Street,Chiltern Railways,B5 4BE,Central,West Midlands,London,Bullring & Selfridges,Digbeth Coach Station,None
+Birmingham Snow Hill,"Chiltern Railways,West Midlands Railway",B4 6AF,Central,West Midlands,London,Jewellery Quarter Museum,St Paul's Church,None
+Jewellery Quarter,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+The Hawthorns,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Smethwick Galton Bridge,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Stourbridge Junction,West Midlands Railway,DY8 1DS,Central,West Midlands,London,None,None,None
+Stourbridge Town,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Kidderminster,"West Midlands Railway,CrossCountry",DY10 1QR,Central,West Midlands,London,Kidderminster Town Hall,None,None
+Hartlebury,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Droitwich Spa,"West Midlands Railway,CrossCountry",Unknown,Central,West Midlands,London,None,None,None
+Worcester Shrub Hill,"West Midlands Railway,CrossCountry,Great Western Railway",WR4 9AB,Central,West Midlands,London,Worcester Cathedral,The Commandery,None
+Worcester Foregate Street,"West Midlands Railway,CrossCountry,Great Western Railway",WR1 1BA,Central,West Midlands,London,Worcester Cathedral,None,None
+Malvern Link,"West Midlands Railway,CrossCountry,Great Western Railway",Unknown,Central,West Midlands,London,None,None,None
+Great Malvern,"West Midlands Railway,CrossCountry,Great Western Railway",WR14 3BL,Central,West Midlands,London,Malvern Priory,None,None
+Colwall,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Ledbury,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Hereford,"Transport for Wales,West Midlands Railway",HR1 2BH,South,Wales,Cardiff,Hereford Cathedral,Mappa Mundi,None
+Leominster,Transport for Wales,Unknown,Central,West Midlands,London,None,None,None
+Ludlow,Transport for Wales,SY8 2PQ,Central,West Midlands,London,Ludlow Castle,None,None
+Craven Arms,Transport for Wales,Unknown,Central,West Midlands,London,None,None,None
+Church Stretton,Transport for Wales,Unknown,Central,West Midlands,London,None,None,None
+Shrewsbury,"Transport for Wales,Avanti West Coast",SY1 1QU,Central,West Midlands,Manchester,Shrewsbury Castle,Shrewsbury Abbey,Charles Darwin Statue
+Welshpool,Transport for Wales,Unknown,Central,West Midlands,London,None,None,None
+Newtown,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Caersws,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Machynlleth,Transport for Wales,SY20 8AB,West,Wales,Cardiff,Parliament House (Owain Glyndwr),None,None
+Aberdovey,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Tywyn,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Barmouth,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Harlech,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Porthmadog,Transport for Wales,LL49 9LR,North,Wales,Liverpool,None,None,None
+Criccieth,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Pwllheli,Transport for Wales,LL53 5HR,North,Wales,Liverpool,None,None,None
+Aberystwyth,Transport for Wales,SY23 1DX,West,Wales,Cardiff,Aberystwyth Castle,National Library of Wales,None
+Borth,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Dovey Junction,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Wrexham General,Transport for Wales,LL13 7AT,North,Wales,Liverpool,None,None,None
+Wrexham Central,Transport for Wales,Unknown,South,Wales,Liverpool,None,None,None
+Ruabon,Transport for Wales,Unknown,South,Wales,Liverpool,None,None,None
+Chirk,Transport for Wales,Unknown,South,Wales,Liverpool,None,None,None
+Gobowen,Transport for Wales,Unknown,South,Wales,Liverpool,None,None,None
+Chester,"Transport for Wales,Avanti West Coast,Northern,CrossCountry",CH1 3DG,North,North West,Liverpool,Chester Cathedral,Chester Roman Walls,Chester Rows
+Flint,Transport for Wales,Unknown,South,Wales,Liverpool,None,None,None
+Rhyl,Transport for Wales,LL18 3AB,North,Wales,Liverpool,None,None,None
+Colwyn Bay,Transport for Wales,LL29 8DP,North,Wales,Liverpool,None,None,None
+Llandudno Junction,Transport for Wales,LL31 9AS,North,Wales,Liverpool,Conwy Castle (1km),None,None
+Llandudno,Transport for Wales,Unknown,South,Wales,Liverpool,None,None,None
+Conwy,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Bangor,"Transport for Wales,Avanti West Coast",LL57 2SG,North,Wales,Liverpool,Bangor Cathedral,Penrhyn Castle (2km),None
+Holyhead,"Transport for Wales,Avanti West Coast",LL65 2YF,North,Wales,Liverpool,South Stack Lighthouse (3km),None,None
+Llanfairpwll,Transport for Wales,Unknown,South,Wales,Liverpool,None,None,None
+Bodorgan,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Ty Croes,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Rhosneigr,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Valley,Transport for Wales,Unknown,North,Scotland,Glasgow,None,None,None
+Prestatyn,Transport for Wales,Unknown,South,Wales,Liverpool,None,None,None
+Abergele & Pensarn,Transport for Wales,Unknown,South,Wales,Liverpool,None,None,None
+Mochdre & Pabo,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Llanfairfechan,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Penmaenmawr,Transport for Wales,Unknown,North,Scotland,Glasgow,None,None,None
+Mold Junction,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Hawarden Bridge,Transport for Wales,Unknown,South,Wales,Liverpool,None,None,None
+Shotton,Transport for Wales,Unknown,South,Wales,Liverpool,None,None,None
+Hawarden,Transport for Wales,Unknown,South,Wales,Liverpool,None,None,None
+Buckley,Transport for Wales,Unknown,South,Wales,Liverpool,None,None,None
+Penyffordd,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Hope (Flintshire),Transport for Wales,Unknown,South,Wales,Liverpool,None,None,None
+Caergwrle,Transport for Wales,Unknown,South,Wales,Liverpool,None,None,None
+Cefn-y-Bedd,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Gwersyllt,Transport for Wales,Unknown,South,Wales,Liverpool,None,None,None
+Caldicot,Transport for Wales,NP26 4BE,South,Wales,Cardiff,Caldicot Castle,None,None
+Chepstow,Transport for Wales,NP16 5EH,South,Wales,Cardiff,Chepstow Castle,None,None
+Lydney,Great Western Railway,GL15 5HY,South,South West,Cardiff,None,None,None
+Cam & Dursley,Great Western Railway,GL11 5JQ,South,South West,London,None,None,None
+Stonehouse,Great Western Railway,GL10 2LQ,South,South West,London,None,None,None
+Stroud,Great Western Railway,GL5 3AQ,South,South West,London,None,None,None
+Kemble,Great Western Railway,GL7 6AD,South,South West,London,None,None,None
+Cirencester Town,Great Western Railway,Unknown,South,South West,London,None,None,None
+Cheltenham Spa,"Great Western Railway,CrossCountry",GL50 1SR,South,South West,London,Cheltenham Racecourse (2km),Imperial Gardens,None
+Gloucester,"Great Western Railway,CrossCountry",GL1 1PY,South,South West,London,Gloucester Cathedral,Gloucester Docks,None
+Ashchurch for Tewkesbury,CrossCountry,GL20 8BL,South,South West,London,Tewkesbury Abbey (2km),None,None
+Pershore,Great Western Railway,WR10 1GF,Central,West Midlands,London,Pershore Abbey,None,None
+Evesham,Great Western Railway,WR11 4AY,Central,West Midlands,London,Evesham Bell Tower,Abbey Park Evesham,None
+Honeybourne,Great Western Railway,Unknown,South,South West,London,None,None,None
+Moreton-in-Marsh,Great Western Railway,GL56 0AA,South,South West,London,None,None,None
+Kingham,Great Western Railway,Unknown,South,South West,London,None,None,None
+Charlbury,Great Western Railway,Unknown,South,South West,London,None,None,None
+Hanborough,Great Western Railway,Unknown,South,South West,London,None,None,None
+Combe,Great Western Railway,Unknown,South,South West,London,None,None,None
+Finstock,Great Western Railway,Unknown,South,South West,London,None,None,None
+Birmingham New Street,"Avanti West Coast,CrossCountry,West Midlands Railway,London Northwestern Railway,CrossCountry",B2 4QA,Central,West Midlands,London,Bullring & Selfridges,Victoria Square (The Floozy),Birmingham Museum & Art Gallery
+Birmingham International,"Avanti West Coast,CrossCountry,London Northwestern Railway",B26 3QJ,Central,West Midlands,London,NEC Birmingham,None,None
+Coventry,"Avanti West Coast,CrossCountry,London Northwestern Railway",CV1 2JX,Central,West Midlands,London,Coventry Cathedral (ruins & new),Herbert Art Gallery,Lady Godiva Statue
+Wolverhampton,"Avanti West Coast,CrossCountry,West Midlands Railway,London Northwestern Railway",WV1 1TR,Central,West Midlands,London,Wolverhampton Art Gallery,St Peter's Collegiate Church,None
+Stafford,"Avanti West Coast,CrossCountry,London Northwestern Railway",ST16 2BP,Central,West Midlands,London,Staffordshire County Museum,None,None
+Stoke-on-Trent,"Avanti West Coast,CrossCountry,East Midlands Railway",ST4 2AA,Central,West Midlands,Manchester,Wedgwood Museum (distant),None,None
+Crewe,"Avanti West Coast,CrossCountry,Northern,London Northwestern Railway,Transport for Wales",CW1 2DA,West,North West,Manchester,Crewe Heritage Centre,None,None
+Macclesfield,Avanti West Coast,SK11 6QN,North,North West,Manchester,None,None,None
+Wilmslow,"Avanti West Coast,Northern,TransPennine Express",SK9 1DH,North,North West,Manchester,None,None,None
+Stockport,"Avanti West Coast,Northern,TransPennine Express",SK1 1BN,North,North West,Manchester,Stockport Viaduct,Stockport Hat Museum,None
+Manchester Piccadilly,"Avanti West Coast,CrossCountry,Northern,TransPennine Express,East Midlands Railway",M1 2BN,North,North West,Manchester,Piccadilly Gardens,Manchester Art Gallery (nearby),None
+Manchester Oxford Road,"Northern,TransPennine Express",M1 6FU,North,North West,Manchester,Manchester Central Library,Bridgewater Hall,None
+Manchester Victoria,"Northern,TransPennine Express",M3 1WY,North,North West,Manchester,Manchester Arena,Chetham's Library,None
+Salford Central,Northern,Unknown,North,North West,Manchester,None,None,None
+Salford Crescent,"Northern,TransPennine Express",M5 4AA,North,North West,Manchester,University of Salford,None,None
+Deansgate,Northern,Unknown,North,North West,Manchester,None,None,None
+Manchester Airport,"Northern,TransPennine Express",M90 1QX,North,North West,Manchester,None,None,None
+Wythenshawe,Northern,Unknown,North,North West,Manchester,None,None,None
+Heald Green,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Cheadle Hulme,Northern,Unknown,North,North West,Manchester,None,None,None
+Bramhall,Northern,Unknown,North,North West,Manchester,None,None,None
+Poynton,Northern,Unknown,North,North West,Manchester,None,None,None
+Adlington (Cheshire),Northern,Unknown,North,North West,Manchester,None,None,None
+Prestbury,Northern,Unknown,North,North West,Manchester,None,None,None
+Chelford,Northern,Unknown,North,North West,Manchester,None,None,None
+Alderley Edge,Northern,Unknown,North,North West,Manchester,None,None,None
+Handforth,Northern,Unknown,North,North West,Manchester,None,None,None
+Gatley,Northern,Unknown,North,North West,Manchester,None,None,None
+East Didsbury,Northern,Unknown,North,North West,Manchester,None,None,None
+Didsbury Village,Northern,Unknown,North,North West,Manchester,None,None,None
+Burton Road,Northern,Unknown,North,North West,Manchester,None,None,None
+Withington,Northern,Unknown,North,North West,Manchester,None,None,None
+Burnage,Northern,Unknown,North,North West,Manchester,None,None,None
+Levenshulme,Northern,Unknown,North,North West,Manchester,None,None,None
+Reddish South,Northern,Unknown,North,North West,Manchester,None,None,None
+Reddish North,Northern,Unknown,North,North West,Manchester,None,None,None
+Brinnington,Northern,Unknown,North,North West,Manchester,None,None,None
+Bredbury,Northern,Unknown,North,North West,Manchester,None,None,None
+Romiley,Northern,Unknown,North,North West,Manchester,None,None,None
+Rose Hill Marple,Northern,Unknown,North,North West,Manchester,None,None,None
+Marple,Northern,Unknown,North,North West,Manchester,None,None,None
+Strines,Northern,Unknown,North,North West,Manchester,None,None,None
+New Mills Newtown,Northern,Unknown,North,North West,Manchester,None,None,None
+New Mills Central,Northern,Unknown,North,North West,Manchester,None,None,None
+Chinley,Northern,Unknown,North,North West,Manchester,None,None,None
+Chapel-en-le-Frith,Northern,Unknown,North,North West,Manchester,None,None,None
+Dove Holes,Northern,Unknown,North,North West,Manchester,None,None,None
+Buxton,Northern,Unknown,North,North West,Manchester,None,None,None
+Whaley Bridge,Northern,Unknown,North,North West,Manchester,None,None,None
+Furness Vale,Northern,Unknown,North,North West,Manchester,None,None,None
+Disley,Northern,Unknown,North,North West,Manchester,None,None,None
+Hazel Grove,Northern,Unknown,North,North West,Manchester,None,None,None
+Davenport,Northern,Unknown,North,North West,Manchester,None,None,None
+Woodsmoor,Northern,Unknown,North,North West,Manchester,None,None,None
+Middlewood,Northern,Unknown,North,North West,Manchester,None,None,None
+Mottram,Northern,Unknown,Central,London,London,None,None,None
+Newton for Hyde,Northern,Unknown,North,North West,Manchester,None,None,None
+Hyde North,Northern,Unknown,North,North West,Manchester,None,None,None
+Hyde Central,Northern,Unknown,North,North West,Manchester,None,None,None
+Godley,Northern,Unknown,North,North West,Manchester,None,None,None
+Hattersley,Northern,Unknown,North,North West,Manchester,None,None,None
+Broadbottom,Northern,Unknown,North,North West,Manchester,None,None,None
+Hadfield,Northern,Unknown,North,North West,Manchester,None,None,None
+Dinting,Northern,Unknown,North,North West,Manchester,None,None,None
+Glossop,Northern,Unknown,North,North West,Manchester,None,None,None
+Crowden,Northern,Unknown,Central,London,London,None,None,None
+Torside,Northern,Unknown,Central,London,London,None,None,None
+Dunford Bridge,Northern,Unknown,Central,London,London,None,None,None
+Penistone,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Silkstone Common,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Dodworth,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Barnsley,"Northern,CrossCountry",S70 1EH,North,Yorkshire and the Humber,Manchester,None,None,None
+Wombwell,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Bolton-upon-Dearne,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Goldthorpe,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Bolton-on-Dearne,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Moorthorpe,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+South Elmsall,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Fitzwilliam,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Sandal & Agbrigg,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Wakefield Kirkgate,Northern,WF1 1XG,North,Yorkshire and the Humber,Manchester,None,None,None
+Normanton,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Castleford,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Glasshoughton,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Pontefract Monkhill,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Pontefract Tanshelf,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Pontefract Baghill,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Featherstone,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Streethouse,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Outwood,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Wakefield Westgate,"Northern,LNER,CrossCountry",WF1 1NT,North,Yorkshire and the Humber,Manchester,The Hepworth Wakefield,Wakefield Cathedral,None
+Dewsbury,"Northern,TransPennine Express",WF12 8BL,North,Yorkshire and the Humber,Manchester,None,None,None
+Batley,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Morley,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Cottingley,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Leeds,"Northern,LNER,CrossCountry,TransPennine Express,London Northwestern Railway",LS1 4DY,North,Yorkshire and the Humber,Manchester,Royal Armouries Museum,Corn Exchange Leeds,Leeds City Museum
+Bradford Interchange,"Northern,TransPennine Express",BD1 1SS,North,Yorkshire and the Humber,Manchester,Bradford City Hall,Alhambra Theatre,None
+Bradford Forster Square,Northern,BD1 4AA,North,Yorkshire and the Humber,Manchester,Bradford Cathedral,None,None
+Halifax,Northern,HX1 1UA,North,Yorkshire and the Humber,Manchester,The Piece Hall Halifax,None,None
+Huddersfield,"Northern,TransPennine Express",HD1 1JP,North,Yorkshire and the Humber,Manchester,Huddersfield Town Hall,None,None
+Sheffield,"CrossCountry,Northern,East Midlands Railway,TransPennine Express,LNER,Avanti West Coast",S1 2BP,North,Yorkshire and the Humber,Manchester,Sheffield Cathedral,Winter Gardens,Millennium Gallery
+Rotherham Central,Northern,S60 1PD,North,Yorkshire and the Humber,Manchester,Rotherham Minster,None,None
+Doncaster,"LNER,Northern,CrossCountry,TransPennine Express",DN1 1PL,North,Yorkshire and the Humber,Manchester,Doncaster Minster,Mansion House Doncaster,None
+York,"LNER,CrossCountry,Northern,TransPennine Express",YO24 1AB,North,Yorkshire and the Humber,Manchester,York Minster,Shambles,National Railway Museum
+Harrogate,"Northern,TransPennine Express",HG1 1ER,North,Yorkshire and the Humber,Manchester,Valley Gardens Harrogate,Royal Hall Harrogate,None
+Knaresborough,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Starbeck,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Hammerton,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Cattal,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Poppleton,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Thirsk,LNER,YO7 1LT,North,Yorkshire and the Humber,Manchester,None,None,None
+Northallerton,"LNER,Northern",DL7 8PW,North,Yorkshire and the Humber,Manchester,None,None,None
+Darlington,"LNER,Northern,CrossCountry,TransPennine Express",DL3 6JA,North,North East,Glasgow,Locomotion No.1 replica,None,None
+Durham,"LNER,Northern",DH1 4RP,North,North East,Glasgow,Durham Cathedral,Durham Castle,Framwellgate Bridge
+Chester-le-Street,Northern,DH3 3LZ,North,North East,Glasgow,None,None,None
+Newcastle,"LNER,Northern,CrossCountry,TransPennine Express",NE1 5DL,North,North East,Glasgow,Angel of the North (nearby),Tyne Bridge,Grey Street
+Sunderland,"Northern,TransPennine Express",SR1 1NT,North,North East,Glasgow,Wearmouth Bridge,Stadium of Light (nearby),None
+Middlesbrough,"Northern,TransPennine Express,LNER",TS1 1DB,North,North East,Glasgow,Transporter Bridge,mima (Middlesbrough Institute),None
+Stockton,Northern,Unknown,North,North East,Glasgow,None,None,None
+Thornaby,"Northern,TransPennine Express",Unknown,North,North East,Glasgow,None,None,None
+Hartlepool,Northern,TS24 7HF,North,North East,Glasgow,Hartlepool Historic Quay,None,None
+Seaham,Northern,Unknown,North,North East,Glasgow,None,None,None
+Horden,Northern,Unknown,North,North East,Glasgow,None,None,None
+Peterlee,Northern,Unknown,North,North East,Glasgow,None,None,None
+South Hylton,Northern,Unknown,Central,London,London,None,None,None
+Pallion,Northern,Unknown,Central,London,London,None,None,None
+Stadium of Light,Northern,Unknown,Central,London,London,None,None,None
+St Peters,Northern,Unknown,Central,London,London,None,None,None
+Millfield,Northern,Unknown,Central,London,London,None,None,None
+Felling,Northern,Unknown,Central,London,London,None,None,None
+Gateshead,Northern,Unknown,North,North East,Glasgow,None,None,None
+Gateshead Metro Centre,Northern,Unknown,North,North East,Glasgow,None,None,None
+Blaydon,Northern,Unknown,North,North East,Glasgow,None,None,None
+Dunston,Northern,Unknown,North,North East,Glasgow,None,None,None
+Hexham,Northern,NE46 1EA,North,North East,Glasgow,Hexham Abbey,Hexham Old Gaol,None
+Corbridge,Northern,Unknown,North,North East,Glasgow,None,None,None
+Riding Mill,Northern,Unknown,North,North East,Glasgow,None,None,None
+Stocksfield,Northern,Unknown,North,North East,Glasgow,None,None,None
+Prudhoe,Northern,Unknown,North,North East,Glasgow,None,None,None
+Wylam,Northern,Unknown,North,North East,Glasgow,None,None,None
+Scotswood,Northern,Unknown,North,North East,Glasgow,None,None,None
+Elswick,Northern,Unknown,North,North East,Glasgow,None,None,None
+Metrocentre,Northern,Unknown,North,North East,Glasgow,None,None,None
+Haltwhistle,Northern,Unknown,North,North East,Glasgow,None,None,None
+Bardon Mill,Northern,Unknown,North,North East,Glasgow,None,None,None
+Haydon Bridge,Northern,Unknown,North,North East,Glasgow,None,None,None
+Brampton,Northern,Unknown,Central,London,London,None,None,None
+Carlisle,"Avanti West Coast,Northern,TransPennine Express,CrossCountry,ScotRail,Caledonian Sleeper",CA1 1LT,North,North West,Glasgow,Carlisle Cathedral,Carlisle Castle,Tullie House Museum
+Penrith,"Avanti West Coast,TransPennine Express,Northern",CA11 7PT,North,North West,Glasgow,Penrith Castle,None,None
+Oxenholme Lake District,"Avanti West Coast,Northern,TransPennine Express",LA9 7BH,North,North West,Glasgow,None,None,None
+Windermere,Northern,LA23 1BA,North,North West,Glasgow,Lake Windermere,Orrest Head View,World of Beatrix Potter
+Staveley,Northern,Unknown,Central,London,London,None,None,None
+Burneside,Northern,Unknown,Central,London,London,None,None,None
+Kendal,Northern,Unknown,Central,London,London,None,None,None
+Lancaster,"Avanti West Coast,Northern,TransPennine Express",LA1 1QE,North,North West,Manchester,Lancaster Castle,Lancaster Priory,Ashton Memorial
+Morecambe,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Heysham Port,Northern,Unknown,Central,London,London,None,None,None
+Bare Lane,Northern,Unknown,North,North West,Manchester,None,None,None
+Bolton-le-Sands,Northern,Unknown,North,North West,Manchester,None,None,None
+Carnforth,"Northern,Avanti West Coast",Unknown,North,North West,Manchester,None,None,None
+Silverdale,Northern,Unknown,North,North West,Manchester,None,None,None
+Arnside,Northern,Unknown,North,North West,Manchester,None,None,None
+Grange-over-Sands,Northern,Unknown,North,North West,Manchester,None,None,None
+Kents Bank,Northern,Unknown,North,North West,Manchester,None,None,None
+Cark & Cartmel,Northern,Unknown,North,North West,Manchester,None,None,None
+Ulverston,Northern,Unknown,North,North West,Manchester,None,None,None
+Barrow-in-Furness,Northern,LA14 2PW,North,North West,Glasgow,Furness Abbey (2km),None,None
+Roose,Northern,Unknown,North,North West,Manchester,None,None,None
+Askam,Northern,Unknown,North,North West,Manchester,None,None,None
+Kirkby-in-Furness,Northern,Unknown,North,North West,Manchester,None,None,None
+Green Road,Northern,Unknown,North,North West,Manchester,None,None,None
+Foxfield,Northern,Unknown,North,North West,Manchester,None,None,None
+Millom,Northern,Unknown,North,North West,Manchester,None,None,None
+Silecroft,Northern,Unknown,North,North West,Manchester,None,None,None
+Bootle,Northern,Unknown,North,North West,Manchester,None,None,None
+Drigg,Northern,Unknown,North,North West,Manchester,None,None,None
+Ravenglass,Northern,Unknown,North,North West,Manchester,None,None,None
+Seascale,Northern,Unknown,North,North West,Manchester,None,None,None
+Sellafield,Northern,Unknown,North,North West,Manchester,None,None,None
+Braystones,Northern,Unknown,North,North West,Manchester,None,None,None
+Nethertown,Northern,Unknown,North,North West,Manchester,None,None,None
+St Bees,Northern,Unknown,North,North West,Manchester,None,None,None
+Corkickle,Northern,Unknown,North,North West,Manchester,None,None,None
+Whitehaven,Northern,Unknown,North,North West,Manchester,None,None,None
+Parton,Northern,Unknown,North,North West,Manchester,None,None,None
+Harrington,Northern,Unknown,North,North West,Manchester,None,None,None
+Workington,Northern,Unknown,North,North West,Manchester,None,None,None
+Flimby,Northern,Unknown,North,North West,Manchester,None,None,None
+Maryport,Northern,Unknown,North,North West,Manchester,None,None,None
+Aspatria,Northern,Unknown,North,North West,Manchester,None,None,None
+Wigton,Northern,Unknown,North,North West,Manchester,None,None,None
+Dalston,Northern,Unknown,North,North West,Manchester,None,None,None
+Blackpool North,"Northern,Avanti West Coast,TransPennine Express",FY1 5EQ,North,North West,Manchester,Blackpool Tower,Blackpool Pleasure Beach,Blackpool Winter Gardens
+Blackpool South,Northern,FY4 1TW,North,North West,Manchester,Blackpool Pleasure Beach,None,None
+Blackpool Pleasure Beach,Northern,Unknown,North,North West,Manchester,None,None,None
+Layton,Northern,Unknown,North,North West,Manchester,None,None,None
+Poulton-le-Fylde,Northern,Unknown,North,North West,Manchester,None,None,None
+Kirkham & Wesham,Northern,Unknown,North,North West,Manchester,None,None,None
+Moss Side,Northern,Unknown,North,North West,Manchester,None,None,None
+Lytham,Northern,Unknown,North,North West,Manchester,None,None,None
+Ansdell & Fairhaven,Northern,Unknown,North,North West,Manchester,None,None,None
+St Annes-on-the-Sea,Northern,Unknown,North,North West,Manchester,None,None,None
+Squires Gate,Northern,Unknown,North,North West,Manchester,None,None,None
+Preston,"Avanti West Coast,Northern,TransPennine Express,CrossCountry",PR1 1LD,North,North West,Manchester,Harris Museum & Art Gallery,Preston Minster,None
+Leyland,Northern,Unknown,North,North West,Manchester,None,None,None
+Chorley,Northern,Unknown,North,North West,Manchester,None,None,None
+Adlington (Lancashire),Northern,Unknown,North,North West,Manchester,None,None,None
+Blackrod,Northern,Unknown,North,North West,Manchester,None,None,None
+Lostock,Northern,Unknown,North,North West,Manchester,None,None,None
+Bolton,"Northern,TransPennine Express",BL1 1RU,North,North West,Manchester,Bolton Town Hall,None,None
+Bromley Cross,Northern,Unknown,North,North West,Manchester,None,None,None
+Entwistle,Northern,Unknown,North,North West,Manchester,None,None,None
+Darwen,Northern,Unknown,North,North West,Manchester,None,None,None
+Blackburn,"Northern,TransPennine Express",BB2 1EB,North,North West,Manchester,Blackburn Cathedral,None,None
+Clitheroe,Northern,Unknown,North,North West,Manchester,None,None,None
+Whalley,Northern,Unknown,North,North West,Manchester,None,None,None
+Langho,Northern,Unknown,North,North West,Manchester,None,None,None
+Ramsgreave & Wilpshire,Northern,Unknown,North,North West,Manchester,None,None,None
+Accrington,"Northern,TransPennine Express",Unknown,North,North West,Manchester,None,None,None
+Burnley Manchester Road,Northern,BB11 1EP,North,North West,Manchester,None,None,None
+Burnley Central,Northern,Unknown,North,North West,Manchester,None,None,None
+Burnley Barracks,Northern,Unknown,North,North West,Manchester,None,None,None
+Rose Grove,Northern,Unknown,North,North West,Manchester,None,None,None
+Hapton,Northern,Unknown,North,North West,Manchester,None,None,None
+Huncoat,Northern,Unknown,North,North West,Manchester,None,None,None
+Church & Oswaldtwistle,Northern,Unknown,North,North West,Manchester,None,None,None
+Rishton,Northern,Unknown,North,North West,Manchester,None,None,None
+Great Harwood,Northern,Unknown,Central,London,London,None,None,None
+Padiham,Northern,Unknown,Central,London,London,None,None,None
+Nelson,Northern,Unknown,North,North West,Manchester,None,None,None
+Colne,Northern,Unknown,North,North West,Manchester,None,None,None
+Brierfield,Northern,Unknown,North,North West,Manchester,None,None,None
+Barrowford,Northern,Unknown,North,North West,Manchester,None,None,None
+Pendle,Northern,Unknown,Central,London,London,None,None,None
+Rochdale,"Northern,TransPennine Express",OL16 1NZ,North,North West,Manchester,Rochdale Town Hall,Rochdale Pioneers Museum,None
+Smithy Bridge,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Littleborough,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Walsden,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Todmorden,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Hebden Bridge,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Mytholmroyd,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Sowerby Bridge,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Brighouse,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Cooper Bridge,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Mirfield,"Northern,TransPennine Express",Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Ravensthorpe,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Thornhill LNW,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Ossett,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Horbury & Ossett,Northern,Unknown,Central,London,Manchester,None,None,None
+Calder Bridge,Northern,Unknown,Central,London,London,None,None,None
+Horbury Bridge,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Wrenthorpe,Northern,Unknown,Central,London,London,None,None,None
+Kirkgate,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Methley,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Garforth,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+East Garforth,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Micklefield,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+South Milford,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Sherburn-in-Elmet,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Church Fenton,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Ulleskelf,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Selby,"Northern,LNER,CrossCountry,TransPennine Express",YO8 4BA,North,Yorkshire and the Humber,Manchester,Selby Abbey,None,None
+Howden,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Eastrington,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Gilberdyke,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Brough,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Ferriby,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Hessle,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Hull,"Northern,TransPennine Express,LNER,CrossCountry",HU1 3QY,East,Yorkshire and the Humber,Manchester,The Deep Aquarium,Hull Minster,Museum Quarter Hull
+Cottingham,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Beverley,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Arram,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Hutton Cranswick,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Driffield,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Nafferton,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Bridlington,"Northern,TransPennine Express",Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Bempton,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Hunmanby,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Filey,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Scarborough,"Northern,TransPennine Express",YO12 7QX,North,Yorkshire and the Humber,Manchester,Scarborough Castle,Scarborough Beach,None
+Seamer,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Malton,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Rillington,Northern,Unknown,Central,London,London,None,None,None
+Knapton,Northern,Unknown,Central,London,London,None,None,None
+Haxby,Northern,Unknown,Central,London,London,None,None,None
+Strensall,Northern,Unknown,Central,London,London,None,None,None
+Stamford Bridge,Northern,Unknown,Central,London,London,None,None,None
+Market Weighton,Northern,Unknown,Central,London,London,None,None,None
+Pocklington,Northern,Unknown,Central,London,London,None,None,None
+Fangfoss,Northern,Unknown,Central,London,London,None,None,None
+Warthill,Northern,Unknown,Central,London,London,None,None,None
+Kirkham Priory,Northern,Unknown,Central,London,London,None,None,None
+Howsham,Northern,Unknown,Central,London,London,None,None,None
+Crambe,Northern,Unknown,Central,London,London,None,None,None
+Barton Hill,Northern,Unknown,Central,London,London,None,None,None
+Leicester,"East Midlands Railway,CrossCountry",LE1 1QP,Central,East Midlands,London,King Richard III Visitor Centre,Leicester Cathedral,Curve Theatre
+Nottingham,"East Midlands Railway,CrossCountry",NG2 3AQ,Central,East Midlands,London,Nottingham Castle,Ye Olde Trip to Jerusalem,None
+Derby,"East Midlands Railway,CrossCountry,Avanti West Coast,Northern",DE1 2NS,Central,East Midlands,London,Derby Cathedral,Silk Mill Museum,None
+Loughborough,East Midlands Railway,LE11 1EW,Central,East Midlands,London,Carillon Tower & War Memorial,None,None
+Beeston,East Midlands Railway,Unknown,Central,East Midlands,London,None,None,None
+Long Eaton,East Midlands Railway,Unknown,Central,East Midlands,London,None,None,None
+East Midlands Parkway,East Midlands Railway,Unknown,Central,East Midlands,London,None,None,None
+Attenborough,East Midlands Railway,Unknown,Central,East Midlands,London,None,None,None
+Chesterfield,"East Midlands Railway,CrossCountry,Northern",S40 1AB,North,Yorkshire and the Humber,London,Chesterfield Crooked Spire,None,None
+Alfreton,East Midlands Railway,Unknown,Central,East Midlands,London,None,None,None
+Kirkby in Ashfield,East Midlands Railway,Unknown,Central,East Midlands,London,None,None,None
+Hucknall,East Midlands Railway,Unknown,Central,East Midlands,London,None,None,None
+Bulwell,East Midlands Railway,Unknown,Central,East Midlands,London,None,None,None
+Ilkeston,East Midlands Railway,Unknown,Central,East Midlands,London,None,None,None
+Netherfield,East Midlands Railway,Unknown,Central,East Midlands,London,None,None,None
+Burton-on-Trent,East Midlands Railway,Unknown,Central,East Midlands,London,None,None,None
+Tamworth,"East Midlands Railway,CrossCountry,London Northwestern Railway",B79 7NA,Central,West Midlands,London,Tamworth Castle,None,None
+Lichfield Trent Valley,"London Northwestern Railway,CrossCountry",WS14 9LE,Central,West Midlands,London,Lichfield Cathedral (2km),None,None
+Lichfield City,West Midlands Railway,WS13 6LG,Central,West Midlands,London,Lichfield Cathedral,Samuel Johnson Birthplace,None
+Rugeley Trent Valley,CrossCountry,Unknown,Central,East Midlands,London,None,None,None
+Rugeley Town,West Midlands Railway,Unknown,Central,East Midlands,London,None,None,None
+Hednesford,West Midlands Railway,Unknown,Central,East Midlands,London,None,None,None
+Cannock,West Midlands Railway,Unknown,Central,East Midlands,London,None,None,None
+Landywood,West Midlands Railway,Unknown,Central,East Midlands,London,None,None,None
+Bloxwich North,West Midlands Railway,Unknown,Central,East Midlands,London,None,None,None
+Bloxwich,West Midlands Railway,Unknown,Central,East Midlands,London,None,None,None
+Walsall,"West Midlands Railway,CrossCountry",WS2 8JZ,Central,West Midlands,London,Walsall Art Gallery (The New Art Gallery),None,None
+Tame Bridge Parkway,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Bescot Stadium,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Dudley Port,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Tipton,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Coseley,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Bilston,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Bradley Lane,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Darlaston,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+James Bridge,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Wednesbury,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Wednesfield Heath,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Willenhall,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Short Heath,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Butlers Lane,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Four Oaks,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Sutton Coldfield,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Wylde Green,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Chester Road,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Erdington,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Gravelly Hill,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Aston,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Duddeston,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Adderley Park,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Stechford,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Lea Hall,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Marston Green,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Coleshill Parkway,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Water Orton,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Wilnecote,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Polesworth,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Atherstone,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Nuneaton,"West Midlands Railway,CrossCountry,London Northwestern Railway",CV11 4JN,Central,West Midlands,London,George Eliot Birthplace (nearby),None,None
+Bedworth,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Bermuda Park,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Longford & Exhall,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Henley-in-Arden,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Wootton Wawen,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Wilmcote,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Stratford-upon-Avon Parkway,"West Midlands Railway,CrossCountry",Unknown,Central,West Midlands,London,None,None,None
+Stratford-upon-Avon,"West Midlands Railway,CrossCountry",CV37 6YY,Central,West Midlands,London,Shakespeare's Birthplace,Royal Shakespeare Theatre,Anne Hathaway's Cottage
+Claverdon,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Widney Manor,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Bentley Heath,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Knowle & Dorridge,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Whitlocks End,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Shirley,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Yardley Wood,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Hall Green,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Spring Road,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Tyseley,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Small Heath,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Bordesley,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Redditch,West Midlands Railway,B97 4DP,Central,West Midlands,London,None,None,None
+Alvechurch,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Barnt Green,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Longbridge,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Northfield,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Kings Norton,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Bournville,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Kings Heath,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Moseley,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+University,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Five Ways,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Selly Oak,West Midlands Railway,Unknown,Central,West Midlands,London,None,None,None
+Cambridge,"Greater Anglia,Thameslink,East Midlands Railway",CB1 2JW,East,East of England,London,King's College Chapel,Fitzwilliam Museum,The Backs
+Cambridge North,Greater Anglia,CB4 1RX,East,East of England,London,None,None,None
+Ely,"Greater Anglia,East Midlands Railway",CB7 4BG,East,East of England,London,Ely Cathedral,Oliver Cromwell's House,None
+Ipswich,Greater Anglia,IP1 1AT,East,East of England,London,Christchurch Mansion,Ipswich Waterfront,None
+Norwich,Greater Anglia,NR1 1EE,East,East of England,London,Norwich Cathedral (1km),Norwich Castle,None
+Peterborough,"LNER,East Midlands Railway,Thameslink,CrossCountry",PE1 1QN,East,East of England,London,Peterborough Cathedral,Flag Fen Museum,None
+Stevenage,"LNER,Thameslink,Great Northern",SG1 1UA,East,East of England,London,None,None,None
+Hitchin,"Thameslink,Great Northern",Unknown,East,East of England,London,None,None,None
+Letchworth Garden City,"Thameslink,Great Northern",Unknown,East,East of England,London,None,None,None
+Baldock,"Thameslink,Great Northern",Unknown,East,East of England,London,None,None,None
+Biggleswade,"Thameslink,Great Northern",SG18 8AX,East,East of England,London,None,None,None
+Sandy,"Thameslink,Great Northern",SG19 1BT,East,East of England,London,None,None,None
+St Neots,"Thameslink,Great Northern",PE19 2AB,East,East of England,London,None,None,None
+Huntingdon,"Thameslink,Great Northern",PE29 3NB,East,East of England,London,Oliver Cromwell's House (1km),None,None
+March,Greater Anglia,PE15 8HE,East,East of England,London,None,None,None
+Whittlesea,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Manea,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Waterbeach,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Littleport,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Downham Market,Greater Anglia,PE38 9HJ,East,East of England,London,None,None,None
+Watlington,Greater Anglia,Unknown,East,East of England,London,None,None,None
+King's Lynn,Greater Anglia,PE30 1DW,East,East of England,London,King's Lynn Customs House,None,None
+Wolferton,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Wymondham,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Spooner Row,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Attleborough,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Eccles Road,Greater Anglia,Unknown,East,East of England,Manchester,None,None,None
+Harling Road,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Thetford,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Brandon,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Lakenheath,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Shippea Hill,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Diss,Greater Anglia,IP22 4DD,East,East of England,London,None,None,None
+Stowmarket,Greater Anglia,IP14 1BJ,East,East of England,London,None,None,None
+Needham Market,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Colchester,Greater Anglia,CO1 1JY,East,East of England,London,Colchester Castle,Balkerne Gate (Roman Wall),None
+Clacton-on-Sea,Greater Anglia,CO15 1ER,East,East of England,London,Clacton Pier,None,None
+Frinton-on-Sea,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Walton-on-the-Naze,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Harwich International,Greater Anglia,CO12 3HH,East,East of England,London,None,None,None
+Harwich Town,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Dovercourt,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Manningtree,Greater Anglia,CO11 1AX,East,East of England,London,None,None,None
+Mistley,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Wrabness,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Sudbury,Greater Anglia,Unknown,East,East of England,Manchester,None,None,None
+Bures,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Chappel & Wakes Colne,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Marks Tey,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Witham,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Chelmsford,Greater Anglia,CM1 1LT,East,East of England,London,Chelmsford Cathedral,None,None
+Ingatestone,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Shenfield,"Greater Anglia,Elizabeth line",Unknown,East,East of England,London,None,None,None
+Brentwood,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Harold Wood,"Greater Anglia,Elizabeth line",Unknown,East,East of England,London,None,None,None
+Gidea Park,"Greater Anglia,Elizabeth line",Unknown,East,East of England,London,None,None,None
+Romford,"Greater Anglia,Elizabeth line",Unknown,East,East of England,London,None,None,None
+Chadwell Heath,"Greater Anglia,Elizabeth line",Unknown,East,East of England,London,None,None,None
+Goodmayes,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Seven Kings,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Ilford,"Greater Anglia,Elizabeth line",Unknown,East,East of England,London,None,None,None
+Manor Park,"Greater Anglia,Elizabeth line",Unknown,East,East of England,London,None,None,None
+Forest Gate,"Greater Anglia,Elizabeth line",Unknown,East,East of England,London,None,None,None
+Maryland,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Braintree,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Braintree Freeport,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Cressing,Greater Anglia,Unknown,East,East of England,London,None,None,None
+White Notley,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Notley,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Hatfield Peverel,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Lowestoft,Greater Anglia,NR32 1HP,East,East of England,London,Lowestoft Lighthouse,East Point Pavilion,None
+Oulton Broad South,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Oulton Broad North,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Beccles,Greater Anglia,Unknown,East,East of England,Manchester,None,None,None
+Halesworth,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Darsham,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Saxmundham,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Wickham Market,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Woodbridge,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Melton,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Trimley,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Felixstowe,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Bury St Edmunds,Greater Anglia,IP33 3AL,East,East of England,London,Bury St Edmunds Abbey,St Edmundsbury Cathedral,None
+Thurston,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Elmswell,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Haughley Junction,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Newmarket,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Kennett,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Chippenham (Cambridgeshire),Greater Anglia,Unknown,East,East of England,London,None,None,None
+Stansted Airport,"Greater Anglia,Stansted Express",CM24 1QW,East,East of England,London,None,None,None
+Stansted Mountfitchet,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Elsenham,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Newport (Essex),Greater Anglia,Unknown,East,East of England,London,None,None,None
+Audley End,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Whittlesford Parkway,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Great Chesterford,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Shelford,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Harlow Mill,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Harlow Town,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Sawbridgeworth,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Bishops Stortford,Greater Anglia,CM23 3JY,East,East of England,London,None,None,None
+Hertford East,Greater Anglia,SG14 1BA,South,East of England,London,Hertford Castle,None,None
+Ware,Greater Anglia,Unknown,East,East of England,London,None,None,None
+St Margarets (Hertfordshire),Greater Anglia,Unknown,East,East of England,London,None,None,None
+Rye House,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Broxbourne,Greater Anglia,EN10 6RH,South,East of England,London,Lee Valley White Water Centre (nearby),None,None
+Cheshunt,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Waltham Cross,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Turkey Street,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Enfield Lock,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Brimsdown,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Ponders End,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Meridian Water,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Angel Road,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Northumberland Park,Greater Anglia,Unknown,East,East of England,London,None,None,None
+Tottenham Hale,"Greater Anglia,Stansted Express",N17 9PP,South,London,London,None,None,None
+Folkestone Central,Southeastern,CT19 5SD,South,South East,London,None,None,None
+Folkestone West,Southeastern,Unknown,South,South East,London,None,None,None
+Dover Priory,Southeastern,CT16 1HY,South,South East,London,Dover Castle,White Cliffs of Dover,Dover Town Hall
+Deal,Southeastern,Unknown,South,South East,London,None,None,None
+Sandwich,Southeastern,Unknown,South,South East,London,None,None,None
+Canterbury East,Southeastern,CT1 2RB,South,South East,London,Canterbury Cathedral,St Augustine's Abbey,Canterbury Roman Museum
+Canterbury West,Southeastern,CT2 8AA,South,South East,London,Canterbury Cathedral,Westgate Towers,None
+Whitstable,Southeastern,Unknown,South,South East,London,None,None,None
+Herne Bay,Southeastern,Unknown,South,South East,London,None,None,None
+Margate,Southeastern,CT9 1AL,South,South East,London,Turner Contemporary Gallery,Margate Shell Grotto,Dreamland Margate
+Broadstairs,Southeastern,CT10 1RJ,South,South East,London,Bleak House (Dickens),None,None
+Ramsgate,Southeastern,CT11 9DA,South,South East,London,Ramsgate Harbour,Ramsgate Maritime Museum,None
+Faversham,Southeastern,ME13 7AF,South,South East,London,Faversham Abbey remains,None,None
+Sittingbourne,Southeastern,Unknown,South,South East,London,None,None,None
+Rainham (Kent),Southeastern,Unknown,South,South East,London,None,None,None
+Gillingham (Kent),Southeastern,Unknown,South,South East,London,None,None,None
+Chatham,Southeastern,ME4 4HH,South,South East,London,Chatham Historic Dockyard,None,None
+Rochester,Southeastern,ME1 1AA,South,South East,London,Rochester Castle,Rochester Cathedral,Guildhall Museum Rochester
+Strood,Southeastern,Unknown,South,South East,London,None,None,None
+Gravesend,Southeastern,Unknown,South,South East,London,None,None,None
+Northfleet,Southeastern,Unknown,South,South East,London,None,None,None
+Swanscombe,Southeastern,Unknown,South,South East,London,None,None,None
+Stone Crossing,Southeastern,Unknown,South,South East,London,None,None,None
+Greenhithe for Bluewater,Southeastern,Unknown,South,South East,London,None,None,None
+Dartford,"Southeastern,c2c",DA1 2HY,South,South East,London,Dartford Museum,None,None
+Crayford,Southeastern,Unknown,South,South East,London,None,None,None
+Slade Green,Southeastern,Unknown,South,South East,London,None,None,None
+Erith,Southeastern,Unknown,South,South East,London,None,None,None
+Belvedere,Southeastern,Unknown,South,South East,London,None,None,None
+Plumstead,Southeastern,Unknown,South,South East,London,None,None,None
+Abbey Wood,"Southeastern,Elizabeth line",SE2 9RH,South,London,London,None,None,None
+Bexleyheath,Southeastern,Unknown,South,South East,London,None,None,None
+Barnehurst,Southeastern,Unknown,South,South East,London,None,None,None
+Maidstone East,Southeastern,ME14 1PQ,South,South East,London,Maidstone Museum,All Saints' Church Maidstone,None
+Maidstone West,Southeastern,Unknown,South,South East,London,None,None,None
+Maidstone Barracks,Southeastern,Unknown,South,South East,London,None,None,None
+Paddock Wood,Southeastern,Unknown,South,South East,London,None,None,None
+Tonbridge,Southeastern,TN9 1TN,South,South East,London,Tonbridge Castle,None,None
+Tunbridge Wells,Southeastern,TN1 1QD,South,South East,London,Pantiles (historic colonnaded walk),None,None
+Sevenoaks,Southeastern,TN13 1AH,South,South East,London,Knole House & Park,None,None
+Orpington,Southeastern,BR6 0TW,South,South East,London,None,None,None
+Bromley South,Southeastern,BR1 1LR,South,South East,London,None,None,None
+Bromley North,Southeastern,Unknown,South,South East,London,None,None,None
+Beckenham Junction,"Southeastern,Thameslink,Southern",BR3 4PD,South,London,London,None,None,None
+Crystal Palace,"Southern,Thameslink",SE19 1RT,South,London,London,Crystal Palace Park,Crystal Palace Dinosaurs,None
+Norwood Junction,"Southern,Thameslink",Unknown,South,South East,London,None,None,None
+Swanley,Southeastern,Unknown,South,South East,London,None,None,None
+Ebbsfleet International,"Southeastern,Eurostar",DA10 1AH,South,South East,London,None,None,None
+Ashford International,"Southeastern,Eurostar,South Western Railway",TN23 1LT,South,South East,London,None,None,None
+Lenham,Southeastern,Unknown,South,South East,London,None,None,None
+Charing (Kent),Southeastern,Unknown,South,South East,London,None,None,None
+Harrietsham,Southeastern,Unknown,South,South East,London,None,None,None
+Hollingbourne,Southeastern,Unknown,South,South East,London,None,None,None
+Bearsted,Southeastern,Unknown,South,South East,London,None,None,None
+Grove Park,Southeastern,Unknown,South,South East,London,None,None,None
+Lee,Southeastern,Unknown,South,South East,London,None,None,None
+Hither Green,Southeastern,Unknown,South,South East,London,None,None,None
+Lewisham,Southeastern,SE13 7FG,South,London,London,None,None,None
+Blackheath,Southeastern,Unknown,South,South East,London,None,None,None
+Westcombe Park,Southeastern,Unknown,South,South East,London,None,None,None
+Maze Hill,Southeastern,Unknown,South,South East,London,None,None,None
+Greenwich,Southeastern,SE10 9HF,South,London,London,Cutty Sark,Royal Observatory Greenwich,National Maritime Museum
+Deptford,Southeastern,Unknown,South,South East,London,None,None,None
+New Cross,Southeastern,Unknown,South,South East,London,None,None,None
+St Johns,Southeastern,Unknown,South,South East,London,None,None,None
+Ladywell,Southeastern,Unknown,South,South East,London,None,None,None
+Catford Bridge,Southeastern,Unknown,South,South East,London,None,None,None
+Lower Sydenham,Southeastern,Unknown,South,South East,London,None,None,None
+New Beckenham,Southeastern,Unknown,South,South East,London,None,None,None
+Elmstead Woods,Southeastern,Unknown,South,South East,London,None,None,None
+Chislehurst,Southeastern,Unknown,South,South East,London,None,None,None
+Petts Wood,Southeastern,Unknown,South,South East,London,None,None,None
+Chelsfield,Southeastern,Unknown,South,South East,London,None,None,None
+Knockholt,Southeastern,Unknown,South,South East,London,None,None,None
+Dunton Green,Southeastern,Unknown,South,South East,London,None,None,None
+Bat & Ball,Southeastern,Unknown,South,South East,London,None,None,None
+Otford,Southeastern,Unknown,South,South East,London,None,None,None
+Shoreham (Kent),Southeastern,Unknown,South,South East,London,None,None,None
+Eynsford,Southeastern,Unknown,South,South East,London,None,None,None
+Farningham Road,Southeastern,Unknown,South,South East,London,None,None,None
+Longfield,Southeastern,Unknown,South,South East,London,None,None,None
+Meopham,Southeastern,Unknown,South,South East,London,None,None,None
+Sole Street,Southeastern,Unknown,South,South East,London,None,None,None
+Cobham & Stoke d'Abernon,South Western Railway,Unknown,South,South East,London,None,None,None
+Hersham,South Western Railway,Unknown,South,South East,London,None,None,None
+Walton-on-Thames,South Western Railway,Unknown,South,South East,London,None,None,None
+Addlestone,South Western Railway,Unknown,South,South East,London,None,None,None
+Chertsey,South Western Railway,Unknown,South,South East,London,None,None,None
+Virginia Water,South Western Railway,Unknown,South,South East,London,None,None,None
+Egham,South Western Railway,Unknown,South,South East,London,None,None,None
+Sunningdale,South Western Railway,Unknown,South,South East,London,None,None,None
+Ascot,South Western Railway,SL5 7LS,South,South East,London,Ascot Racecourse,None,None
+Bracknell,South Western Railway,RG12 1BX,South,South East,London,None,None,None
+Wokingham,"South Western Railway,Great Western Railway",RG40 2BZ,South,South East,London,None,None,None
+Sandhurst,South Western Railway,Unknown,South,South East,London,None,None,None
+Crowthorne,South Western Railway,Unknown,South,South East,London,None,None,None
+Camberley,South Western Railway,Unknown,South,South East,London,None,None,None
+Frimley,South Western Railway,Unknown,South,South East,London,None,None,None
+Ash Vale,South Western Railway,Unknown,South,South East,London,None,None,None
+Ash,South Western Railway,Unknown,South,South East,London,None,None,None
+Glasgow Central,"ScotRail,Avanti West Coast,CrossCountry,Caledonian Sleeper,TransPennine Express,LNER",G1 3SL,North,Scotland,Glasgow,Lighthouse (Glasgow Centre for Design),Gallery of Modern Art,George Square
+Glasgow Queen Street,"ScotRail,LNER",G1 2AF,North,Scotland,Glasgow,Gallery of Modern Art,George Square,Merchant City
+Edinburgh Waverley,"ScotRail,LNER,Avanti West Coast,CrossCountry,TransPennine Express,Caledonian Sleeper",EH1 1BB,North,Scotland,Edinburgh,Edinburgh Castle,Scott Monument,Princes Street Gardens
+Edinburgh Haymarket,"ScotRail,LNER,Avanti West Coast,CrossCountry,TransPennine Express",EH12 5EY,North,Scotland,Edinburgh,Haymarket Memorial,Murrayfield Stadium (1km),None
+Aberdeen,"ScotRail,LNER,Caledonian Sleeper",AB11 6LX,North,Scotland,Glasgow,Aberdeen Art Gallery,Marischal College,None
+Inverness,"ScotRail,Caledonian Sleeper",IV1 1LE,North,Scotland,Edinburgh,Inverness Castle,Inverness Cathedral,None
+Dundee,"ScotRail,LNER",DD1 2SB,North,Scotland,Edinburgh,V&A Dundee Museum of Design,RRS Discovery,None
+Perth,"ScotRail,LNER,Caledonian Sleeper",PH1 5JW,North,Scotland,Edinburgh,Scone Palace (3km),Perth Museum & Art Gallery,None
+Stirling,ScotRail,FK8 1QZ,North,Scotland,Edinburgh,Stirling Castle,National Wallace Monument (1km),Church of the Holy Rude
+Falkirk High,"ScotRail,LNER",FK1 4HP,North,Scotland,Edinburgh,The Falkirk Wheel (3km),Kelpies (3km),None
+Falkirk Grahamston,ScotRail,Unknown,North,Scotland,Edinburgh,None,None,None
+Motherwell,"ScotRail,Avanti West Coast,CrossCountry,LNER",ML1 1QY,North,Scotland,Glasgow,None,None,None
+Hamilton Central,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Rutherglen,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Airdrie,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Bathgate,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Livingston South,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Livingston North,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Linlithgow,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Glasgow Argyle Street,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Glasgow High Street,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Glasgow Bridgeton,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Glasgow Dalmarnock,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Glasgow Cambuslang,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Newton (Lanarkshire),ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Kirkhill,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Croftfoot,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Kings Park,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Muirend,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Cathcart,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Langside,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Mount Florida,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Crosshill,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Queens Park,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Glasgow Pollokshields West,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Glasgow Pollokshields East,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Glasgow Shields Road,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Dumbreck,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Corkerhill,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Mosspark,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Crookston,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Priesthill & Darnley,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Nitshill,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Barrhead,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Dunlop,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Stewarton,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Kilmaurs,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Kilmarnock,ScotRail,KA1 1PE,North,Scotland,Glasgow,Dean Castle,None,None
+Hurlford,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Mauchline,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Auchinleck,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+New Cumnock,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Cumnock,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Kirkconnel,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Sanquhar,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Dumfries,ScotRail,DG1 2BF,North,Scotland,Glasgow,Robert Burns House,Dumfries Museum,None
+Annan,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Gretna Green,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Eastriggs,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Camelon,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Larbert,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Cumbernauld,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Greenfaulds,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Garrowhill,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Shettleston,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Carntyne,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Alexandra Parade,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Bellgrove,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Whifflet,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Coatbridge Central,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Coatbridge Sunnyside,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Blairhill,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Coatdyke,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Drumgelloch,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Armadale,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Blackridge,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Caldercruix,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Plains,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Greengairs,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Mossend,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Holytown,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Uddingston,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Glasgow Central Low Level,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Hyndland,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Partick,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Glasgow Exhibition Centre,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Anderston,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Charing Cross (Glasgow),ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Drumchapel,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Westerton,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Yoker,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Scotstounhill,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Garscadden,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Anniesland,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Knightswood North,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Kelvindale,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Maryhill,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Summerston,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Gilshochill,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Possilpark & Parkhouse,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Ashfield,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Bishopbriggs,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Lenzie,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Kirkintilloch,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Croy,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Stepps,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Robroyston,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Cardross,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Dalreoch,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Dumbarton Central,ScotRail,G82 1JT,North,Scotland,Glasgow,Dumbarton Castle,None,None
+Dumbarton East,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Craigendoran,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Helensburgh Upper,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Helensburgh Central,ScotRail,G84 7AE,North,Scotland,Glasgow,None,None,None
+Rhu,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Shandon,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Garelochhead,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Arrochar & Tarbet,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Ardlui,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Crianlarich,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Tyndrum Lower,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Dalmally,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Taynuilt,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Connel Ferry,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Oban,ScotRail,PA34 4LL,North,Scotland,Glasgow,McCaig's Tower,None,None
+Bridge of Orchy,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Tyndrum Upper,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+County March Summit,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Rannoch,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Corrour,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Tulloch,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Roy Bridge,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Spean Bridge,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Fort William,"ScotRail,Caledonian Sleeper",PH33 6TQ,North,Scotland,Edinburgh,Ben Nevis (distant),Jacobite Steam Train Platform,None
+Banavie,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Corpach,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Loch Eil Outward Bound,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Lochailort,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Beasdale,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Arisaig,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Morar,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Mallaig,ScotRail,PH41 4QB,North,Scotland,Glasgow,Mallaig Heritage Centre,None,None
+Ardgay,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Culrain,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Invershin,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Lairg,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Rogart,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Golspie,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Dunrobin Castle,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Brora,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Helmsdale,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Kildonan,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Kinbrace,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Forsinard,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Altnabreac,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Scotscalder,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Georgemas Junction,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Thurso,ScotRail,KW14 8BN,North,Scotland,Edinburgh,Old St Peter's Church,None,None
+Wick,ScotRail,KW1 4AA,North,Scotland,Edinburgh,Wick Heritage Museum,None,None
+Muir of Ord,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Beauly,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Dingwall,ScotRail,Unknown,North,Scotland,Edinburgh,None,None,None
+Invergordon,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Fearn,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Tain,ScotRail,Unknown,North,Scotland,Edinburgh,None,None,None
+Kyle of Lochalsh,ScotRail,IV40 8AQ,North,Scotland,Edinburgh,Eilean Donan Castle (12km),Skye Bridge,None
+Duirinish,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Plockton,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Duncraig,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Stromeferry,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Attadale,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Strathcarron,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Achanalt,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Achnasheen,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Achnashellach,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Luib Summit,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Glencarron Platform,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Garve,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Lochluichart,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Aviemore,"ScotRail,LNER,Caledonian Sleeper",PH22 1PD,North,Scotland,Edinburgh,None,None,None
+Pitlochry,"ScotRail,Caledonian Sleeper",PH16 5AN,North,Scotland,Edinburgh,Pitlochry Festival Theatre,None,None
+Blair Atholl,"ScotRail,Caledonian Sleeper",PH18 5SG,North,Scotland,Edinburgh,Blair Castle,None,None
+Dalwhinnie,"ScotRail,Caledonian Sleeper",PH19 1AB,North,Scotland,Edinburgh,Dalwhinnie Distillery,None,None
+Newtonmore,"ScotRail,Caledonian Sleeper",Unknown,North,Scotland,Glasgow,None,None,None
+Kingussie,"ScotRail,Caledonian Sleeper",PH21 1HH,North,Scotland,Edinburgh,None,None,None
+Carrbridge,"ScotRail,Caledonian Sleeper",PH23 3AT,North,Scotland,Edinburgh,Packhorse Bridge Carrbridge,None,None
+Culloden Moor,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Elgin,ScotRail,Unknown,North,Scotland,Edinburgh,None,None,None
+Forres,ScotRail,Unknown,North,Scotland,Edinburgh,None,None,None
+Nairn,ScotRail,Unknown,North,Scotland,Edinburgh,None,None,None
+Insch,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Inverurie,ScotRail,Unknown,North,Scotland,Edinburgh,None,None,None
+Dyce,ScotRail,Unknown,North,Scotland,Edinburgh,None,None,None
+Stonehaven,ScotRail,AB39 2DT,North,Scotland,Edinburgh,Dunnottar Castle (2km),None,None
+Portlethen,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Montrose,"ScotRail,LNER",DD10 8TH,North,Scotland,Edinburgh,None,None,None
+Arbroath,"ScotRail,LNER",DD11 1AE,North,Scotland,Edinburgh,Arbroath Abbey (Declaration of Arbroath),None,None
+Carnoustie,"ScotRail,LNER",Unknown,North,Scotland,Edinburgh,None,None,None
+Balmossie,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Monifieth,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Barry Links,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Golf Street,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Broughty Ferry,ScotRail,Unknown,North,Scotland,Edinburgh,None,None,None
+Leuchars,"ScotRail,LNER",KY16 0AH,North,Scotland,Edinburgh,None,None,None
+Cupar,ScotRail,Unknown,North,Scotland,Edinburgh,None,None,None
+Springfield,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Ladybank,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Markinch,ScotRail,Unknown,North,Scotland,Edinburgh,None,None,None
+Glenrothes with Thornton,ScotRail,Unknown,North,Scotland,Edinburgh,None,None,None
+Kirkcaldy,ScotRail,KY1 1LH,North,Scotland,Edinburgh,Kirkcaldy Museum & Art Gallery,None,None
+Kinghorn,ScotRail,Unknown,North,Scotland,Edinburgh,None,None,None
+Burntisland,ScotRail,Unknown,North,Scotland,Edinburgh,None,None,None
+Aberdour,ScotRail,Unknown,North,Scotland,Edinburgh,None,None,None
+Dalgety Bay,ScotRail,Unknown,North,Scotland,Edinburgh,None,None,None
+Inverkeithing,ScotRail,Unknown,North,Scotland,Edinburgh,None,None,None
+North Queensferry,ScotRail,Unknown,North,Scotland,Edinburgh,None,None,None
+Dalmeny,ScotRail,Unknown,North,Scotland,Edinburgh,None,None,None
+Edinburgh Park,ScotRail,Unknown,North,Scotland,Edinburgh,None,None,None
+Musselburgh,ScotRail,Unknown,North,Scotland,Edinburgh,None,None,None
+Wallyford,ScotRail,Unknown,North,Scotland,Edinburgh,None,None,None
+Prestonpans,ScotRail,Unknown,North,Scotland,Edinburgh,None,None,None
+Longniddry,ScotRail,Unknown,North,Scotland,Edinburgh,None,None,None
+Drem,ScotRail,Unknown,North,Scotland,Edinburgh,None,None,None
+North Berwick,ScotRail,EH39 4HH,North,Scotland,Edinburgh,Scottish Seabird Centre,Bass Rock (visible),None
+Dunbar,"ScotRail,LNER",EH42 1AX,North,Scotland,Edinburgh,Dunbar Castle ruins,John Muir's Birthplace,None
+Glasgow Pollokshaws West,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Glasgow Pollokshaws East,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Shawlands,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Maxwell Park,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Pollokshields West,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Paisley Canal,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Hawkhead,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Paisley Gilmour Street,ScotRail,PA1 1DL,North,Scotland,Glasgow,Paisley Abbey,None,None
+Paisley St James,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Porterfield,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Johnstone,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Milliken Park,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Howwood,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Lochwinnoch,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Glengarnock,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Dalry,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Saltcoats,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Stevenson,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Irvine,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Troon,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Prestwick International Airport,ScotRail,KA9 2PL,North,Scotland,Glasgow,None,None,None
+Prestwick Town,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Newton-on-Ayr,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Ayr,ScotRail,KA7 1HB,North,Scotland,Glasgow,Burns Cottage (3km Alloway),Low Green Bandstand,None
+Maybole,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Girvan,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Barrhill,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Stranraer,ScotRail,DG9 8BS,North,Scotland,Glasgow,Stranraer Castle,None,None
+Ardrossan Harbour,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Ardrossan South Beach,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Ardrossan Town,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+West Kilbride,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Fairlie,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Largs,ScotRail,KA30 8AG,North,Scotland,Glasgow,Pencil Monument (Battle of Largs),None,None
+Wemyss Bay,ScotRail,PA18 6AH,North,Scotland,Glasgow,None,None,None
+Inverkip,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Gourock,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Langbank,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Port Glasgow,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Bogston,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Cartsdyke,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Greenock Central,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Greenock West,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Drumfrochar,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+Branchton,ScotRail,Unknown,North,Scotland,Glasgow,None,None,None
+St Albans City,Thameslink,AL1 3SA,South,East of England,London,St Albans Cathedral,Roman Verulamium Museum,None
+Harpenden,Thameslink,Unknown,South,South East,London,None,None,None
+Luton Airport Parkway,"Thameslink,East Midlands Railway",LU2 9LP,South,East of England,London,None,None,None
+Luton,"Thameslink,East Midlands Railway",LU1 2PB,South,East of England,London,None,None,None
+Leagrave,Thameslink,Unknown,South,South East,London,None,None,None
+Flitwick,Thameslink,Unknown,South,South East,London,None,None,None
+Bedford,"Thameslink,East Midlands Railway",MK40 2AA,Central,East of England,London,Bedford Castle Mound,Bunyan Museum,None
+Bedford St Johns,Thameslink,Unknown,South,South East,London,None,None,None
+Elstow,Thameslink,Unknown,South,South East,London,None,None,None
+Kempston Hardwick,Thameslink,Unknown,South,South East,London,None,None,None
+Stewartby,Thameslink,Unknown,South,South East,London,None,None,None
+Millbrook (Bedfordshire),Thameslink,Unknown,South,South East,London,None,None,None
+Fenny Stratford,London Northwestern Railway,Unknown,South,London,London,None,None,None
+Bletchley,"London Northwestern Railway,Chiltern Railways",MK2 2BX,Central,South East,London,Bletchley Park,None,None
+Milton Keynes Central,"Avanti West Coast,London Northwestern Railway",MK9 1AY,Central,South East,London,Milton Keynes Rose,None,None
+Wolverton,London Northwestern Railway,MK12 5DQ,Central,South East,London,None,None,None
+Northampton,"Avanti West Coast,London Northwestern Railway",NN1 2BH,Central,East Midlands,London,Northampton Museum & Art Gallery,All Saints' Church,None
+Long Buckby,Avanti West Coast,NN6 7QA,Central,East Midlands,London,None,None,None
+Rugby,"Avanti West Coast,CrossCountry,London Northwestern Railway",CV21 3HW,Central,West Midlands,London,Rugby School,Rugby Art Gallery & Museum,None
+Tring,London Northwestern Railway,HP23 4BZ,South,East of England,London,None,None,None
+Berkhamsted,London Northwestern Railway,HP4 1HA,South,East of England,London,Berkhamsted Castle,None,None
+Hemel Hempstead,London Northwestern Railway,HP1 1AB,South,East of England,London,None,None,None
+Apsley,London Northwestern Railway,Unknown,South,London,London,None,None,None
+Kings Langley,London Northwestern Railway,Unknown,South,London,London,None,None,None
+Watford Junction,"London Northwestern Railway,West Midlands Railway",WD17 1AB,South,East of England,London,None,None,None
+Watford High Street,London Overground,Unknown,Central,East of England,London,None,None,None
+Bushey,London Northwestern Railway,Unknown,South,London,London,None,None,None
+Carpenders Park,London Northwestern Railway,Unknown,South,London,London,None,None,None
+Hatch End,London Northwestern Railway,Unknown,South,London,London,None,None,None
+Headstone Lane,London Northwestern Railway,Unknown,South,London,London,None,None,None
+Harrow & Wealdstone,London Northwestern Railway,HA3 5BP,South,London,London,None,None,None
+Kenton,London Northwestern Railway,Unknown,South,London,London,None,None,None
+South Kenton,London Northwestern Railway,Unknown,South,London,London,None,None,None
+North Wembley,London Northwestern Railway,Unknown,South,London,London,None,None,None
+Wembley Central,London Northwestern Railway,HA9 7BJ,South,London,London,Wembley Stadium,SSE Arena Wembley,None
+Stonebridge Park,London Northwestern Railway,Unknown,South,London,London,None,None,None
+Harlesden,London Northwestern Railway,Unknown,South,London,London,None,None,None
+Willesden Junction,"London Northwestern Railway,London Overground",NW10 4RA,South,London,London,None,None,None
+Kensal Green,London Northwestern Railway,Unknown,South,London,London,None,None,None
+Hatfield,"Thameslink,Great Northern",AL10 9ET,South,East of England,London,Hatfield House,None,None
+Welwyn Garden City,"Thameslink,Great Northern",AL7 1QZ,South,East of England,London,None,None,None
+Welwyn North,"Thameslink,Great Northern",Unknown,East,East of England,London,None,None,None
+Knebworth,"Thameslink,Great Northern",Unknown,East,East of England,London,None,None,None
+Potters Bar,"Thameslink,Great Northern",Unknown,South,South East,London,None,None,None
+Welham Green,Great Northern,Unknown,South,East of England,London,None,None,None
+Brookmans Park,Great Northern,Unknown,South,East of England,London,None,None,None
+Crews Hill,Great Northern,Unknown,South,East of England,London,None,None,None
+Cuffley,Great Northern,Unknown,South,East of England,London,None,None,None
+Bayford,Great Northern,Unknown,South,East of England,London,None,None,None
+Hertford North,Great Northern,Unknown,East,East of England,London,None,None,None
+Watton-at-Stone,Great Northern,Unknown,East,East of England,London,None,None,None
+Stapleford,Great Northern,Unknown,South,East of England,London,None,None,None
+Enfield Chase,Great Northern,Unknown,South,East of England,London,None,None,None
+Gordon Hill,Great Northern,Unknown,South,East of England,London,None,None,None
+Grange Park,Great Northern,Unknown,South,East of England,London,None,None,None
+Winchmore Hill,Great Northern,Unknown,South,East of England,London,None,None,None
+Palmers Green,Great Northern,Unknown,South,East of England,London,None,None,None
+Bowes Park,Great Northern,Unknown,South,East of England,London,None,None,None
+Bounds Green,Great Northern,Unknown,South,East of England,London,None,None,None
+Alexandra Palace,Great Northern,N22 7ST,South,London,London,Alexandra Palace,None,None
+Hornsey,Great Northern,Unknown,South,East of England,London,None,None,None
+Harringay,Great Northern,Unknown,South,East of England,London,None,None,None
+Finsbury Park,"Thameslink,Great Northern",N4 2DL,South,London,London,None,None,None
+Hadley Wood,Great Northern,Unknown,South,East of England,London,None,None,None
+New Barnet,Great Northern,Unknown,South,East of England,London,None,None,None
+Oakleigh Park,Great Northern,Unknown,South,East of England,Manchester,None,None,None
+New Southgate,Great Northern,Unknown,South,East of England,London,None,None,None
+Tilbury Town,c2c,RM18 8YN,East,East of England,London,Tilbury Fort,None,None
+Grays,c2c,RM17 6HQ,East,East of England,London,Thurrock Museum,None,None
+Chafford Hundred,c2c,Unknown,East,East of England,London,None,None,None
+Ockendon,c2c,Unknown,East,East of England,London,None,None,None
+Upminster,"c2c,Elizabeth line",Unknown,East,East of England,London,None,None,None
+Hornchurch,c2c,Unknown,East,East of England,London,None,None,None
+Elm Park,c2c,Unknown,East,East of England,London,None,None,None
+Dagenham East,c2c,Unknown,East,East of England,London,None,None,None
+Dagenham Heathrow,c2c,Unknown,East,East of England,London,None,None,None
+Rainham (Essex),c2c,Unknown,East,East of England,London,None,None,None
+Purfleet,c2c,Unknown,East,East of England,London,None,None,None
+Stanford-le-Hope,c2c,Unknown,East,East of England,London,None,None,None
+East Tilbury,c2c,Unknown,East,East of England,Manchester,None,None,None
+Pitsea,c2c,Unknown,East,East of England,London,None,None,None
+Basildon,c2c,SS14 1DW,East,East of England,London,None,None,None
+Laindon,c2c,Unknown,East,East of England,London,None,None,None
+Benfleet,c2c,Unknown,East,East of England,London,None,None,None
+Leigh-on-Sea,c2c,Unknown,East,East of England,Manchester,None,None,None
+Chalkwell,c2c,Unknown,East,East of England,London,None,None,None
+Westcliff,c2c,Unknown,East,East of England,London,None,None,None
+Southend Central,"c2c,Greater Anglia",SS1 1YS,East,East of England,London,Southend Pier (world's longest),Adventure Island,None
+Southend East,c2c,SS1 2TR,East,East of England,London,Southend Pier,None,None
+Thorpe Bay,c2c,Unknown,East,East of England,London,None,None,None
+Shoeburyness,c2c,SS3 9DS,East,East of England,London,None,None,None
+West Horndon,c2c,Unknown,East,East of England,London,None,None,None
+Bulphan,c2c,Unknown,East,East of England,London,None,None,None
+Upminster Bridge,c2c,Unknown,East,East of England,London,None,None,None
+Skipton,"Northern,TransPennine Express",BD23 1JH,North,Yorkshire and the Humber,Manchester,Skipton Castle,None,None
+Keighley,"Northern,TransPennine Express",Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Bingley,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Shipley,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Saltaire,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Frizinghall,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Apperley Bridge,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Kirkstall Forge,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Horsforth,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Headingley,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Burley Park,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Ilkley,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Ben Rhydding,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Burley-in-Wharfedale,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Menston,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Guiseley,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Otley,Northern,Unknown,Central,London,London,None,None,None
+Grange,Northern,Unknown,Central,London,London,None,None,None
+Crossgates,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Killingbeck,Northern,Unknown,Central,London,London,None,None,None
+Woodlesford,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Altofts & Whitwood,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Knottingley,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Hensall,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Snaith,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Rawcliffe,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Goole,"Northern,TransPennine Express",DN14 5AE,North,Yorkshire and the Humber,Manchester,None,None,None
+Broomfleet,Northern,Unknown,Central,London,London,None,None,None
+Cleethorpes,"Northern,TransPennine Express",DN35 8AX,East,Yorkshire and the Humber,Manchester,Cleethorpes Pier,None,None
+New Clee,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Grimsby Docks,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Grimsby Town,Northern,DN31 1LJ,East,Yorkshire and the Humber,Manchester,None,None,None
+Great Coates,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Healing,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Stallingborough,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Habrough,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Ulceby,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Thornton Abbey,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Barnetby,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Brigg,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Kirton Lindsey,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Gainsborough Lea Road,"Northern,East Midlands Railway",Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Retford,"LNER,Northern,East Midlands Railway",DN22 6AT,North,Yorkshire and the Humber,Manchester,None,None,None
+Newark North Gate,LNER,NG24 1AU,East,East Midlands,London,Newark Castle,None,None
+Newark Castle,East Midlands Railway,Unknown,Central,East Midlands,London,None,None,None
+Grantham,"LNER,East Midlands Railway",NG31 6HX,East,East Midlands,London,None,None,None
+Sleaford,"East Midlands Railway,Northern",Unknown,Central,East Midlands,London,None,None,None
+Spalding,East Midlands Railway,PE11 1UJ,East,East Midlands,London,None,None,None
+Boston,East Midlands Railway,PE21 6PT,East,East Midlands,London,St Botolph's Church (The Stump),None,None
+Skegness,"East Midlands Railway,Northern",PE25 3NX,East,East Midlands,London,Skegness Pier,None,None
+Lincoln Central,"East Midlands Railway,Northern,TransPennine Express",LN5 7EP,East,East Midlands,Manchester,Lincoln Cathedral,Lincoln Castle,Bailgate
+Lincoln St Marks,East Midlands Railway,Unknown,East,East Midlands,London,None,None,None
+Hykeham,East Midlands Railway,Unknown,East,East Midlands,London,None,None,None
+Swinderby,East Midlands Railway,Unknown,East,East Midlands,London,None,None,None
+Collingham,East Midlands Railway,Unknown,East,East Midlands,London,None,None,None
+Fiskerton,East Midlands Railway,Unknown,Central,East Midlands,London,None,None,None
+Rolleston,East Midlands Railway,Unknown,Central,East Midlands,London,None,None,None
+Southwell,East Midlands Railway,Unknown,East,East Midlands,London,None,None,None
+Bleasby,East Midlands Railway,Unknown,Central,East Midlands,London,None,None,None
+Thurgarton,East Midlands Railway,Unknown,Central,East Midlands,London,None,None,None
+Lowdham,East Midlands Railway,Unknown,Central,East Midlands,London,None,None,None
+Burton Joyce,East Midlands Railway,Unknown,Central,East Midlands,London,None,None,None
+Carlton,East Midlands Railway,Unknown,Central,East Midlands,London,None,None,None
+Mansfield,East Midlands Railway,NG18 1RD,Central,East Midlands,London,None,None,None
+Mansfield Woodhouse,East Midlands Railway,Unknown,Central,East Midlands,London,None,None,None
+Shirebrook,East Midlands Railway,Unknown,Central,East Midlands,London,None,None,None
+Langwith-Whaley Thorns,East Midlands Railway,Unknown,Central,East Midlands,London,None,None,None
+Creswell,East Midlands Railway,Unknown,Central,East Midlands,London,None,None,None
+Whitwell (Derbyshire),East Midlands Railway,Unknown,Central,East Midlands,London,None,None,None
+Worksop,"Northern,East Midlands Railway",S80 1HL,North,Yorkshire and the Humber,Manchester,Priory Church Worksop,None,None
+Shireoaks,Northern,Unknown,Central,East Midlands,London,None,None,None
+Kiveton Bridge,Northern,Unknown,Central,East Midlands,London,None,None,None
+Kiveton Park,Northern,Unknown,Central,East Midlands,London,None,None,None
+Wales,Northern,Unknown,Central,East Midlands,London,None,None,None
+Woodhouse,Northern,Unknown,Central,East Midlands,London,None,None,None
+Dronfield,Northern,Unknown,Central,East Midlands,London,None,None,None
+Apperknowle,Northern,Unknown,Central,London,London,None,None,None
+Millhouses,Northern,Unknown,Central,London,London,None,None,None
+Ecclesall,Northern,Unknown,Central,London,Manchester,None,None,None
+Gleadless Townend,Northern,Unknown,Central,London,London,None,None,None
+Epsom Downs,Southern,KT18 5JB,South,South East,London,Epsom Racecourse,None,None
+Banstead,Southern,Unknown,South,South East,London,None,None,None
+Belmont (Surrey),Southern,Unknown,South,South East,London,None,None,None
+Sutton (Surrey),"Southern,Thameslink",SM1 1AD,South,London,London,None,None,None
+Carshalton,"Southern,Thameslink",Unknown,South,South East,London,None,None,None
+Hackbridge,"Southern,Thameslink",Unknown,South,South East,London,None,None,None
+Mitcham Eastfields,Thameslink,Unknown,South,South East,London,None,None,None
+Mitcham Junction,Thameslink,Unknown,South,South East,London,None,None,None
+Morden South,Thameslink,Unknown,South,South East,London,None,None,None
+St Helier,"Southern,Thameslink",Unknown,South,South East,London,None,None,None
+Stonecot Hill,Southern,Unknown,South,South East,London,None,None,None
+Cheam,Southern,Unknown,South,South East,London,None,None,None
+Ewell East,Southern,Unknown,South,South East,London,None,None,None
+Ewell West,South Western Railway,Unknown,South,South East,London,None,None,None
+Worcester Park,South Western Railway,Unknown,South,South East,London,None,None,None
+Tolworth,South Western Railway,Unknown,South,South East,London,None,None,None
+Chessington South,South Western Railway,Unknown,South,South East,London,None,None,None
+Chessington North,South Western Railway,Unknown,South,South East,London,None,None,None
+Malden Manor,South Western Railway,Unknown,South,South East,London,None,None,None
+New Malden,South Western Railway,Unknown,South,South East,London,None,None,None
+Raynes Park,South Western Railway,Unknown,South,South East,London,None,None,None
+Motspur Park,South Western Railway,Unknown,South,South East,London,None,None,None
+Berrylands,South Western Railway,Unknown,South,South East,London,None,None,None
+Norbiton,South Western Railway,Unknown,South,South East,London,None,None,None
+Hampton Court,South Western Railway,KT8 9BY,South,London,London,Hampton Court Palace,Hampton Court Maze,None
+Thames Ditton,South Western Railway,Unknown,South,South East,London,None,None,None
+Esher,South Western Railway,Unknown,South,South East,London,None,None,None
+Hinchley Wood,South Western Railway,Unknown,South,South East,London,None,None,None
+Claygate,South Western Railway,Unknown,South,South East,London,None,None,None
+Oxshott,South Western Railway,Unknown,South,South East,London,None,None,None
+Ashtead,Southern,Unknown,South,South East,London,None,None,None
+Bookham,Southern,Unknown,South,South East,London,None,None,None
+Effingham Junction,Southern,Unknown,South,South East,London,None,None,None
+Gomshall,Great Western Railway,Unknown,South,South West,London,None,None,None
+Chilworth,Great Western Railway,Unknown,South,South West,London,None,None,None
+Shalford,Great Western Railway,Unknown,South,South West,London,None,None,None
+Albury,Great Western Railway,Unknown,South,South West,Manchester,None,None,None
+Farncombe,South Western Railway,Unknown,South,South East,London,None,None,None
+Godalming,South Western Railway,Unknown,South,South East,London,None,None,None
+Milford (Surrey),South Western Railway,Unknown,South,South East,Swansea,None,None,None
+Witley,South Western Railway,Unknown,South,South East,London,None,None,None
+Haslemere,South Western Railway,Unknown,South,South East,London,None,None,None
+Liphook,South Western Railway,Unknown,South,South East,London,None,None,None
+Liss,South Western Railway,Unknown,South,South East,London,None,None,None
+Petersfield,South Western Railway,Unknown,South,South East,London,None,None,None
+Rowlands Castle,South Western Railway,Unknown,South,South East,London,None,None,None
+Emsworth,Southern,Unknown,South,South East,London,None,None,None
+Nutbourne,Southern,Unknown,South,South East,London,None,None,None
+Bosham,Southern,Unknown,South,South East,London,None,None,None
+Fishbourne (Sussex),Southern,Unknown,South,South East,London,None,None,None
+Cardiff Central,"Transport for Wales,Great Western Railway,CrossCountry",CF10 1GZ,South,Wales,Cardiff,Cardiff Castle,Principality Stadium,National Museum Cardiff
+Cardiff Queen Street,Transport for Wales,CF24 0EQ,South,Wales,Cardiff,Roath Park (nearby),None,None
+Newport,"Transport for Wales,Great Western Railway,CrossCountry",NP20 1AB,South,Wales,Cardiff,Newport Transporter Bridge,Newport Cathedral,None
+Bridgend,"Transport for Wales,Great Western Railway",CF31 1SY,South,Wales,Cardiff,Coity Castle (2km),None,None
+Port Talbot Parkway,"Transport for Wales,Great Western Railway",SA13 1SP,South,Wales,Swansea,None,None,None
+Neath,"Transport for Wales,Great Western Railway",SA11 1JH,South,Wales,Swansea,Neath Abbey ruins,Neath Castle,None
+Swansea,"Transport for Wales,Great Western Railway",SA1 1NX,South,Wales,Swansea,Swansea Marina,Dylan Thomas Centre,National Waterfront Museum
+Llandrindod,Transport for Wales,LD1 6AA,West,Wales,Cardiff,None,None,None
+Builth Road,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Cilmeri,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Garth (Powys),Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Sugar Loaf,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Cynghordy,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Llandovery,Transport for Wales,Unknown,South,Wales,Swansea,None,None,None
+Llanwrtyd,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Llangammarch,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Merthyr Tydfil,Transport for Wales,CF47 8AB,South,Wales,Cardiff,Cyfarthfa Castle,None,None
+Merthyr Vale,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Troedyrhiw,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Pentrebach,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Abercynon,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Mountain Ash,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Fernhill,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Cwmbach,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Aberdare,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Pontypridd,Transport for Wales,CF37 1PH,South,Wales,Cardiff,Pontypridd Museum,Old Bridge Pontypridd,None
+Trehafod,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Tonyrefail,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Porth,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Tonypandy,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Llwynypia,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Ystrad Rhondda,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Ton Pentre,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Treorchy,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Ynyswen,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Treherbert,Transport for Wales,CF42 5BW,South,Wales,Cardiff,None,None,None
+Barry Island,Transport for Wales,CF62 7TG,South,Wales,Cardiff,Barry Island Pleasure Park,None,None
+Barry,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Cadoxton,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Dinas Powys,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Eastbrook,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Cogan,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Barry Docks,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Rhoose Cardiff International Airport,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Llantwit Major,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Porthcawl,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Pencoed,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Llanharan,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Pontyclun,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Talbot Green,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Llantrisant,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Llandaf,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Danescourt,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Fairwater,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Waungron Park,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Ninian Park,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Radyr,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Taffs Well,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Tongwynlais,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Coryton,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Whitchurch (Cardiff),Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Rhiwbina,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Birchgrove,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Heath High Level,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Heath Low Level,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Llanishen,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Lisvane & Thornhill,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Caerphilly,Transport for Wales,CF83 1JQ,South,Wales,Cardiff,Caerphilly Castle,None,None
+Aber,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Llanbradach,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Ystrad Mynach,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Hengoed,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Pengam,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Gilfach Fargoed,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Bargoed,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Brithdir,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Tir-Phil,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+New Tredegar,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Rhymney,Transport for Wales,NP22 5NQ,South,Wales,Cardiff,None,None,None
+Pontlottyn,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Fochriw,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Darran & Deri,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Rhigos,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Hirwaun,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Cwmaman,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Gelli Tarw Junction,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Cwmdare,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Gwaun-cae-Gurwen,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Pantyffynnon,Transport for Wales,Unknown,South,Wales,Swansea,None,None,None
+Ammanford,Transport for Wales,Unknown,South,Wales,Swansea,None,None,None
+Llandybie,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Ffairfach,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Llandeilo,Transport for Wales,SA19 6EA,South,Wales,Swansea,Dinefwr Castle (1km),None,None
+Llangadog,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Llanwrda,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Llanelli,"Transport for Wales,Great Western Railway",SA15 1TA,South,Wales,Swansea,None,None,None
+Pembrey & Burry Port,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Kidwelly,Transport for Wales,Unknown,South,Wales,Swansea,None,None,None
+Ferryside,Transport for Wales,Unknown,South,Wales,Swansea,None,None,None
+Carmarthen,"Transport for Wales,Great Western Railway",SA31 1DZ,South,Wales,Swansea,Carmarthen Castle,None,None
+Whitland,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Narberth,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Kilgetty,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Saundersfoot,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Tenby,Transport for Wales,SA70 7DQ,South,Wales,Swansea,Tenby Castle,Tenby Old Town Walls,None
+Penally,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Manorbier,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Lamphey,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Pembroke,Transport for Wales,Unknown,South,Wales,Swansea,None,None,None
+Pembroke Dock,Transport for Wales,SA72 6BZ,South,Wales,Swansea,Pembroke Castle (5km),None,None
+Milford Haven,Transport for Wales,SA73 2BH,South,Wales,Swansea,None,None,None
+Johnston,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Haverfordwest,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Clarbeston Road,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Fishguard & Goodwick,Transport for Wales,Unknown,West,Wales,Swansea,None,None,None
+Fishguard Harbour,Transport for Wales,SA65 9HJ,West,Wales,Swansea,None,None,None
+Clunderwen,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Knighton,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Bucknell,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Hopton Heath,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Broome,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Abergavenny,Transport for Wales,NP7 5PR,South,Wales,Cardiff,Abergavenny Castle,None,None
+Pontypool & New Inn,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Cwmbran,Transport for Wales,NP44 1QS,South,Wales,Cardiff,None,None,None
+Caerleon,Transport for Wales,Unknown,South,Wales,Cardiff,None,None,None
+Severn Tunnel Junction,"Great Western Railway,Transport for Wales",Unknown,South,Wales,Cardiff,None,None,None
+Saltburn,Northern,Unknown,North,North East,Glasgow,None,None,None
+Marske,Northern,Unknown,North,North East,Glasgow,None,None,None
+Longbeck,Northern,Unknown,North,North East,Glasgow,None,None,None
+Redcar East,Northern,Unknown,North,North East,Glasgow,None,None,None
+Redcar Central,Northern,Unknown,North,North East,Glasgow,None,None,None
+South Bank,Northern,Unknown,North,North East,Glasgow,None,None,None
+Grangetown,Northern,Unknown,North,North East,Glasgow,None,None,None
+Nunthorpe,Northern,Unknown,North,North East,Glasgow,None,None,None
+Marton,Northern,Unknown,North,North East,Glasgow,None,None,None
+James Cook,Northern,Unknown,North,North East,Glasgow,None,None,None
+Stainton,Northern,Unknown,North,North East,Glasgow,None,None,None
+Great Ayton,Northern,Unknown,North,North East,Glasgow,None,None,None
+Battersby,Northern,Unknown,North,North East,Glasgow,None,None,None
+Kildale,Northern,Unknown,North,North East,Glasgow,None,None,None
+Commondale,Northern,Unknown,North,North East,Glasgow,None,None,None
+Castleton Moor,Northern,Unknown,North,North East,Glasgow,None,None,None
+Danby,Northern,Unknown,North,North East,Glasgow,None,None,None
+Lealholm,Northern,Unknown,North,North East,Glasgow,None,None,None
+Glaisdale,Northern,Unknown,North,North East,Glasgow,None,None,None
+Egton,Northern,Unknown,North,North East,Glasgow,None,None,None
+Grosmont,Northern,Unknown,North,North East,Glasgow,None,None,None
+Sleights,Northern,Unknown,North,North East,Glasgow,None,None,None
+Ruswarp,Northern,Unknown,North,North East,Glasgow,None,None,None
+Whitby,Northern,YO21 1YN,North,Yorkshire and the Humber,Manchester,Whitby Abbey,199 Steps,Captain Cook Memorial Museum
+Elland,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Greetland,Northern,Unknown,North,Yorkshire and the Humber,Manchester,None,None,None
+Stainland,Northern,Unknown,Central,London,London,None,None,None
+Norwood Green,Northern,Unknown,Central,London,London,None,None,None
+Bailiff Bridge,Northern,Unknown,Central,London,London,None,None,None
+Lightcliffe,Northern,Unknown,Central,London,London,None,None,None
+Hipperholme,Northern,Unknown,Central,London,London,None,None,None
+Wyke,Northern,Unknown,Central,London,London,None,None,None
+Cleckheaton,Northern,Unknown,Central,London,London,None,None,None
+Liversedge,Northern,Unknown,Central,London,London,None,None,None
+Liverpool Lime Street,"Avanti West Coast,Northern,TransPennine Express,CrossCountry",L1 1JD,West,North West,Liverpool,St George's Hall Liverpool,World Museum Liverpool,Walker Art Gallery
+Liverpool Central,Northern,Unknown,North,North West,Liverpool,None,None,None
+Liverpool James Street,Northern,Unknown,North,North West,Liverpool,None,None,None
+Edge Hill (Merseyrail),Northern,Unknown,North,North West,Liverpool,None,None,None
+Mossley Hill,Northern,Unknown,North,North West,Liverpool,None,None,None
+West Allerton,Northern,Unknown,North,North West,Liverpool,None,None,None
+Allerton,Northern,Unknown,North,North West,Liverpool,None,None,None
+Hunt's Cross,Northern,Unknown,North,North West,Liverpool,None,None,None
+Cressington,Northern,Unknown,North,North West,Liverpool,None,None,None
+Aigburth,Northern,Unknown,North,North West,Liverpool,None,None,None
+St Michaels,Northern,Unknown,North,North West,Liverpool,None,None,None
+Brunswick,Northern,Unknown,North,North West,Liverpool,None,None,None
+Liverpool South Parkway,"Northern,TransPennine Express",L19 5PR,West,North West,Liverpool,None,None,None
+Runcorn East,TransPennine Express,Unknown,North,North West,Liverpool,None,None,None
+Runcorn,"Northern,TransPennine Express",WA7 1DA,North,North West,Liverpool,Runcorn Bridge,None,None
+Widnes,Northern,WA8 6DQ,North,North West,Liverpool,None,None,None
+Warrington Central,"Northern,TransPennine Express",WA1 2QF,North,North West,Manchester,None,None,None
+Warrington Bank Quay,"Avanti West Coast,Northern,TransPennine Express",WA1 1JN,North,North West,Manchester,None,None,None
+Earlestown,Northern,WA12 9JH,North,North West,Liverpool,None,None,None
+Newton-le-Willows,"Northern,TransPennine Express",WA12 9JH,North,North West,Liverpool,None,None,None
+Eccles,Northern,M30 0HS,North,North West,Manchester,None,None,None
+Patricroft,Northern,Unknown,North,North West,Manchester,None,None,None
+Swinton (Greater Manchester),Northern,M27 4DD,North,North West,Manchester,None,None,None
+Moorside,Northern,Unknown,North,North West,Manchester,None,None,None
+Walkden,Northern,Unknown,North,North West,Manchester,None,None,None
+Atherton,Northern,M46 9JR,North,North West,Manchester,None,None,None
+Hag Fold,Northern,Unknown,North,North West,Manchester,None,None,None
+Daisy Hill,Northern,Unknown,North,North West,Manchester,None,None,None
+Hindley,Northern,WN2 3JZ,North,North West,Manchester,None,None,None
+Ince (Greater Manchester),Northern,Unknown,North,North West,Manchester,None,None,None
+Wigan Wallgate,Northern,WN1 1SS,North,North West,Manchester,None,None,None
+Wigan North Western,"Avanti West Coast,Northern,TransPennine Express",WN1 1SD,North,North West,Manchester,None,None,None
+Garswood,Northern,Unknown,North,North West,Manchester,None,None,None
+Bryn,Northern,Unknown,North,North West,Manchester,None,None,None
+Pemberton,Northern,Unknown,North,North West,Manchester,None,None,None
+Orrell,Northern,Unknown,North,North West,Manchester,None,None,None
+Upholland,Northern,Unknown,North,North West,Manchester,None,None,None
+Rainford,Northern,Unknown,North,North West,Manchester,None,None,None
+Rainford Junction,Northern,Unknown,Central,London,London,None,None,None
+Maghull North,Northern,Unknown,North,North West,Liverpool,None,None,None
+Maghull,Northern,Unknown,North,North West,Liverpool,None,None,None
+Old Roan,Northern,Unknown,North,North West,Liverpool,None,None,None
+Aintree,Northern,Unknown,North,North West,Liverpool,None,None,None
+Kirkby (Merseyrail),Northern,Unknown,North,North West,Liverpool,None,None,None
+Fazakerley,Northern,Unknown,North,North West,Liverpool,None,None,None
+Ormskirk,Northern,L39 2AJ,North,North West,Liverpool,Ormskirk Parish Church (two towers),None,None
+Burscough Bridge,Northern,Unknown,North,North West,Liverpool,None,None,None
+New Lane,Northern,Unknown,North,North West,Liverpool,None,None,None
+Bescar Lane,Northern,Unknown,North,North West,Liverpool,None,None,None
+Meols Cop,Northern,Unknown,North,North West,Liverpool,None,None,None
+Southport,Northern,PR8 1RB,North,North West,Liverpool,Southport Pier,None,None
+Birkdale,Northern,Unknown,North,North West,Liverpool,None,None,None
+Hillside,Northern,Unknown,North,North West,Liverpool,None,None,None
+Ainsdale,Northern,Unknown,North,North West,Liverpool,None,None,None
+Freshfield,Northern,Unknown,North,North West,Liverpool,None,None,None
+Formby,Northern,Unknown,North,North West,Liverpool,None,None,None
+Hightown,Northern,Unknown,North,North West,Liverpool,None,None,None
+Hall Road,Northern,Unknown,North,North West,Liverpool,None,None,None
+Blundellsands & Crosby,Northern,Unknown,North,North West,Liverpool,None,None,None
+Waterloo (Merseyside),Northern,Unknown,North,North West,Liverpool,None,None,None
+Seaforth & Litherland,Northern,Unknown,North,North West,Liverpool,None,None,None
+Bootle Oriel Road,Northern,Unknown,North,North West,Liverpool,None,None,None
+Bootle New Strand,Northern,Unknown,North,North West,Liverpool,None,None,None
+Bank Hall,Northern,Unknown,North,North West,Liverpool,None,None,None
+Sandhills,Northern,Unknown,North,North West,Liverpool,None,None,None
+Ellesmere Port,Northern,Unknown,North,North West,Liverpool,None,None,None
+Stanlow & Thornton,Northern,Unknown,North,North West,Liverpool,None,None,None
+Ince & Elton,Northern,Unknown,North,North West,Liverpool,None,None,None
+Frodsham,Northern,Unknown,North,North West,Liverpool,None,None,None
+Helsby,Northern,Unknown,North,North West,Liverpool,None,None,None
+Delamere,Northern,Unknown,North,North West,Manchester,None,None,None
+Cuddington,Northern,Unknown,North,North West,Manchester,None,None,None
+Greenbank,Northern,Unknown,North,North West,Manchester,None,None,None
+Northwich,Northern,Unknown,North,North West,Manchester,None,None,None
+Lostock Gralam,Northern,Unknown,North,North West,Manchester,None,None,None
+Plumley,Northern,Unknown,North,North West,Manchester,None,None,None
+Mobberley,Northern,Unknown,North,North West,Manchester,None,None,None
+Ashley,Northern,Unknown,North,North West,Manchester,None,None,None
+Altrincham,"Northern,TransPennine Express",WA14 1SF,North,North West,Manchester,None,None,None
+Navigation Road,Northern,Unknown,North,North West,Manchester,None,None,None
+Timperley,Northern,Unknown,North,North West,Manchester,None,None,None
+Brooklands,Northern,Unknown,North,North West,Manchester,None,None,None
+Sale,Northern,Unknown,North,North West,Manchester,None,None,None
+Stretford,Northern,Unknown,North,North West,Manchester,None,None,None
+Humphrey Park,Northern,Unknown,North,North West,Manchester,None,None,None
+Urmston,Northern,Unknown,North,North West,Manchester,None,None,None
+Flixton,Northern,Unknown,North,North West,Manchester,None,None,None
+Chassen Road,Northern,Unknown,North,North West,Manchester,None,None,None
+Irlam,Northern,Unknown,North,North West,Manchester,None,None,None
+Cadishead,Northern,Unknown,North,North West,Manchester,None,None,None
+Glazebrook,Northern,Unknown,North,North West,Manchester,None,None,None
+Birchwood,Northern,Unknown,North,North West,Manchester,None,None,None
+Padgate,Northern,Unknown,North,North West,Manchester,None,None,None
+Sankey for Penketh,Northern,Unknown,North,North West,Manchester,None,None,None
+Knutsford,Northern,Unknown,North,North West,Manchester,None,None,None
+Hale,Northern,Unknown,North,North West,Manchester,None,None,None
+Lymm,Northern,Unknown,North,North West,Manchester,None,None,None
+Guide Bridge,Northern,Unknown,North,North West,Manchester,None,None,None
+Flowery Field,Northern,Unknown,North,North West,Manchester,None,None,None
+Fairfield,Northern,Unknown,North,North West,Manchester,None,None,None
+Ashburys,Northern,Unknown,North,North West,Manchester,None,None,None
+Piccadilly Gardens,Northern,Unknown,Central,London,London,None,None,None
+Miles Platting,Northern,Unknown,North,North West,Manchester,None,None,None
+Dean Lane,Northern,Unknown,North,North West,Manchester,None,None,None
+Moston,Northern,Unknown,North,North West,Manchester,None,None,None
+Woodlands Road,Northern,Unknown,North,North West,Manchester,None,None,None
+Mills Hill,Northern,Unknown,North,North West,Manchester,None,None,None
+Castleton,Northern,Unknown,North,North West,Manchester,None,None,None
+Oldham Mumps,Northern,Unknown,Central,London,Manchester,None,None,None
+Oldham Werneth,Northern,Unknown,Central,London,Manchester,None,None,None
+Oldham King Street,Northern,Unknown,Central,London,Manchester,None,None,None
+Werneth,Northern,Unknown,Central,London,London,None,None,None
+Derker,Northern,Unknown,Central,London,London,None,None,None
+Shaw & Crompton,Northern,Unknown,Central,London,London,None,None,None
+Newhey,Northern,Unknown,Central,London,London,None,None,None
+Milnrow,Northern,Unknown,Central,London,London,None,None,None
+Kingsway Business Park,Northern,Unknown,Central,London,London,None,None,None
+Newbold,Northern,Unknown,Central,London,London,None,None,None
+Middleton Junction,Northern,Unknown,North,North West,Manchester,None,None,None
+Slattocks,Northern,Unknown,North,North West,Manchester,None,None,None
+Heywood,Northern,Unknown,North,North West,Manchester,None,None,None
+Bury,Northern,Unknown,North,North West,Manchester,None,None,None
+Radcliffe (Greater Manchester),Northern,Unknown,North,North West,Manchester,None,None,None
+Clifton (Greater Manchester),Northern,Unknown,North,North West,Manchester,None,None,None
+Pendleton,Northern,Unknown,North,North West,Manchester,None,None,None
+Manchester Exchange,Northern,Unknown,North,North West,Manchester,None,None,None
+Bilton,Northern,Unknown,Central,London,London,None,None,None
+Pannal,Northern,Unknown,Central,London,London,None,None,None
+Hornbeam Park,Northern,Unknown,Central,London,London,None,None,None
+Weeton,Northern,Unknown,Central,London,London,None,None,None
+Tadcaster,Northern,Unknown,Central,London,London,None,None,None
+Ripon,Northern,Unknown,Central,London,London,None,None,None
+Yarm,Northern,Unknown,Central,London,London,None,None,None
+Eaglescliffe,Northern,Unknown,Central,London,London,None,None,None
+Gypsy Lane,Northern,Unknown,Central,London,London,None,None,None
+Longlands,Northern,Unknown,Central,London,London,None,None,None
+Hemlington,Northern,Unknown,Central,London,London,None,None,None
+Coulby Newham,Northern,Unknown,Central,London,London,None,None,None
+Hutton Gate,Northern,Unknown,Central,London,London,None,None,None

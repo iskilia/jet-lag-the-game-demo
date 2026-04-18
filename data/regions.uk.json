@@ -1,0 +1,62 @@
+{
+  "London": [
+    "South East",
+    "East of England"
+  ],
+  "South East": [
+    "London",
+    "South West",
+    "East of England",
+    "West Midlands"
+  ],
+  "South West": [
+    "South East",
+    "West Midlands",
+    "Wales"
+  ],
+  "East of England": [
+    "London",
+    "South East",
+    "East Midlands"
+  ],
+  "East Midlands": [
+    "East of England",
+    "West Midlands",
+    "Yorkshire and the Humber",
+    "North West"
+  ],
+  "West Midlands": [
+    "South East",
+    "South West",
+    "East Midlands",
+    "North West",
+    "Wales"
+  ],
+  "Yorkshire and the Humber": [
+    "East Midlands",
+    "North West",
+    "North East"
+  ],
+  "North West": [
+    "West Midlands",
+    "East Midlands",
+    "Yorkshire and the Humber",
+    "North East",
+    "Wales",
+    "Scotland"
+  ],
+  "North East": [
+    "Yorkshire and the Humber",
+    "North West",
+    "Scotland"
+  ],
+  "Wales": [
+    "South West",
+    "West Midlands",
+    "North West"
+  ],
+  "Scotland": [
+    "North East",
+    "North West"
+  ]
+}
