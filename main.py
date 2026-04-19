@@ -271,7 +271,7 @@ def screen_game(state: dict) -> dict:
         _divider()
         print("  What would you like to do?")
         print("  1. Ask a question  (+3 min penalty)")
-        print("  2. Request a hint  (no penalty)")
+        print("  2. Request a hint  (+3 min penalty)")
         print("  3. Make a guess    (+1 min if wrong)")
         print("  4. Give up")
         print("  5. View history")
