@@ -1,3 +1,22 @@
+## Task Status Summary
+
+| Task | Status | Notes |
+|---|---|---|
+| 1 — Parse and normalise station CSV | COMPLETE | `data/stations.uk.json`, 1,666 records |
+| 2 — Build UK questions JSON | COMPLETE | `data/questions.uk.json`, 37 questions |
+| 3 — Build region adjacency map | COMPLETE | `data/regions.uk.json` |
+| 4 — Build country config | COMPLETE | `data/config.uk.json`, `data/countries.json` |
+| 5 — Implement answer engine | COMPLETE | `src/answer_engine.py`, all 37 resolvers, tests pass |
+| 6 — Implement hint engine | COMPLETE | `src/hint_engine.py` |
+| 7 — Implement guess engine | COMPLETE | `src/guess_engine.py`, Levenshtein fuzzy match |
+| 8 — Implement game state machine | COMPLETE | `src/game_state.py`, pure reducer, tests pass |
+| 9 — Build UI components | COMPLETE | Adapted to terminal UI in `main.py` (not React — project is Python/terminal) |
+| 10 — Handle edge cases and polish | COMPLETE | All 6 edge cases addressed |
+| 11 — Document extensibility | COMPLETE | `README.md` updated with full developer guide |
+| 12 — Confirm ambiguous spec rule | COMPLETE | Surfaced as `unansweredLimitBehaviour` in config; flagged in `main.py` |
+
+---
+
 ## 12. Structured Tasks for Execution Agents
 
 Each task below is self-contained and ready to hand to an execution agent. Dependencies are listed.

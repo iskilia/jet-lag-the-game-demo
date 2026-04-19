@@ -2,7 +2,7 @@
 
 ## 1. Project Overview
 
-A single-player web-based guessing game where the **human seeker** tries to locate a **computer hider** who has hidden at a UK National Rail station. The seeker uses questions, hints, and guesses to narrow down the location. Time is the score — the faster you find the hider, the better.
+A single-player text based guessing game where the **human seeker** tries to locate a **computer hider** who has hidden at a UK National Rail station. The seeker uses questions, hints, and guesses to narrow down the location. Time is the score — the faster you find the hider, the better.
 
 ### Game Data Summary (from `train_stations.csv`)
 - **1,666 stations** across the UK

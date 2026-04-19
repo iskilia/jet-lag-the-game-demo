@@ -5,6 +5,7 @@ action produces the correct state transition.
 """
 
 import copy
+import random
 
 from src.game_state import (
     ACTION_ASK_QUESTION,
@@ -107,7 +108,7 @@ def _base_playing_state() -> dict:
     state = reduce(state, {
         "type": ACTION_START_SETUP,
         "payload": {
-            "random_fn": lambda seq: seq[0],
+            "random_fn": lambda seq: random.sample(seq, 1)[0],
         },
     })
 
@@ -176,7 +177,7 @@ class TestSelectCountry:
         })
         assert new_state["status"] == STATE_SETUP_COUNTRY
         assert new_state["countryId"] == "UK"
-        assert len(new_state["allStations"]) == 3
+        assert len(new_state["allStations"]) == 4
 
 
 class TestStartSetup:

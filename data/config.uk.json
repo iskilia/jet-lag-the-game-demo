@@ -7,7 +7,7 @@
   "penalties": {
     "wrongGuess": 1,
     "question": 3,
-    "hint": 0
+    "hint": 3
   },
   "unansweredQuestionLimit": 3,
   "unansweredLimitBehaviour": "end_game",

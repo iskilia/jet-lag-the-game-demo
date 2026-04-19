@@ -1,0 +1,1 @@
+- [Project completion state](project_state.md) — all 12 tasks done; terminal Python app, 66 tests passing, ruff clean

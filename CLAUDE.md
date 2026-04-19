@@ -3,6 +3,7 @@
 ## Commands
 - `uv run python main.py` — run the game
 - `uv run ruff check` — check for linting errors
+- `uv run pytest` - run tests
 
 ## Conventions
 - Never make any changes to the code unless I ask you to. 

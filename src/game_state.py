@@ -289,8 +289,8 @@ def _handle_ask_question(state: dict, payload: dict) -> dict:
 def _handle_request_hint(state: dict, payload: dict) -> dict:
     """Handle the REQUEST_HINT action.
 
-    Logs the hint and records the revealed hint type. Hints carry no time
-    penalty per the config.
+    Logs the hint, records the revealed hint type, and applies the hint
+    penalty from config.
 
     Args:
         state: Deep-copied current state.
@@ -301,16 +301,18 @@ def _handle_request_hint(state: dict, payload: dict) -> dict:
     """
     hint: Optional[dict] = payload.get("hint")
     timestamp: float = payload.get("timestamp", time.time())
+    penalty: int = state.get("config", {}).get("penalties", {}).get("hint", 0)
 
     if hint is not None:
         state["revealedHintTypes"].append(hint["type"])
+        state["penaltyMinutes"] += penalty
         state["history"].append(
             {
                 "type": "hint",
                 "hintType": hint["type"],
                 "hintText": hint["text"],
                 "timestamp": timestamp,
-                "penaltyAdded": 0,
+                "penaltyAdded": penalty,
             }
         )
     else:
